@@ -1,0 +1,13 @@
+body {
+color: #111;
+background-color: #fef6e4;
+}
+
+.card{
+border-radius: 1.2rem;
+border: 2px solid #adaeae;
+}
+
+.card-title{
+color: #20346c;
+}
