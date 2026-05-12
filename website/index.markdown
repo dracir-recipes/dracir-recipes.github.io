@@ -5,7 +5,17 @@
 layout: page
 ---
 
-<h1>Latest Recipes</h1>
+<h1>Cookbook</h1>
+
+<h2> filters </h2>
+<ul>
+	<li><span class="badge rounded-pill text-bg-primary">Breakfast</span></li>
+	<li><span class="badge rounded-pill text-bg-secondary">Meat</span></li>
+	<li><span class="badge rounded-pill text-bg-success">Vegetarian</span></li>
+	<li><span class="badge rounded-pill text-bg-warning">Snacks</span></li>
+</ul>
+
+<h2> recipes </h2>
 
 <div class="row mb-3 g-3 text-center">
 {% for recipe in site.recipes %}

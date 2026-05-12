@@ -1,6 +1,0 @@
----
-short_name: jill
-name: Jill Smith
-position: Chief Editor
----
-Jill is an avid fruit grower based in the south of France. She has been growing fruit for over 20 years and has a wealth of knowledge about different varieties and how to care for them. Jill is passionate about sharing her love of fruit with others and is always happy to offer advice and tips to fellow growers. In her spare time, Jill enjoys cooking with the fruits she grows and experimenting with new recipes.
