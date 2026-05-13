@@ -11,6 +11,8 @@ wait-time: 30 mins
 serving: 2 person
 ---
 
+# Poutine Breakfast
+
 ## Assembly
 
 1. Base
