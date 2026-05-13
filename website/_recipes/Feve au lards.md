@@ -8,8 +8,9 @@ recipe-type: Breakfast
 ---
 
 ## Recipe
+
 0. 12 hours before, desalt the lard. soak the white beans with 2 tbsp baking soda.
-1. In a pan, brown : 
+1. In a pan, brown :
 	- **1 tbsp cooking oil or butter**
 	- **1 Onion, chopped**
 	- **250 g Lard**
@@ -25,11 +26,11 @@ recipe-type: Breakfast
 	- **2 tbsp Molasses**
 	- **1 tbsp Apple Cider Vinegar**
 	- **75 ml Tomato Paste**
-4. Cover with water (around 1 Liter) and cook : 
+3. Cover with water (around 1 Liter) and cook :
 	1. With a Pressure Cooker, cover with water and cooked for 1 hour when on high pressure, then let it 1 hour on natural-release
 	2. With a Dutch Oven,
 	3. With a Crock Pot
-5. Add : 
+4. Add :
 	- **2 tbsp Miso**
 
 ## Notes
