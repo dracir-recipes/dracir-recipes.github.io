@@ -5,9 +5,10 @@ recipe-tags:
   - Quebecois
   - Breakfast
 recipe-type: Breakfast
+thumbnail: /assets/images/feves-au-lard.webp
 ---
 
-# Feve au lard
+# Fèves au lard
 
 ## Recipe
 

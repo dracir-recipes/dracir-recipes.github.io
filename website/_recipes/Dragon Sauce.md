@@ -2,13 +2,14 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: 🟩️
+status: 🟨
 recipe-tags:
   - Vegan
   - Sauce
   - Quebecois
   - Umami
 recipe-type: Sauce
+thumbnail: /assets/images/dragon-sauce.webp
 ---
 
 # Dragon Sauce

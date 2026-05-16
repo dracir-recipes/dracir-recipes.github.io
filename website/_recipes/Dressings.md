@@ -5,7 +5,8 @@ type: cooking-recipe
 status: 🟨
 recipe-tags:
   - Other
-recipe-type:
+recipe-type: Dressing
+thumbnail: /assets/images/dressings.webp
 ---
 
 # Dressings
