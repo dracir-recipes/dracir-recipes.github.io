@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟧
 recipe-tags:
   - Vegan
   - Salad
@@ -10,6 +10,7 @@ recipe-tags:
   - Summer Food
   - Make-Ahead
 recipe-type: Salad
+thumbnail: /assets/images/high-protein-vegan-lentil-salad.webp
 ---
 
 # High Protein Vegan Lentil Salad

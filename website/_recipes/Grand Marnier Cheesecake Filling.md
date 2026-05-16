@@ -2,16 +2,17 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟧
 recipe-tags:
   - French
   - Dessert
   - No-Bake
   - Elegant
 recipe-type: Dessert
+thumbnail: /assets/images/grand-marnier-cheesecake-filling.webp
 ---
 
-# Grand Marnier Cheese Cake Filling
+# Grand Marnier Cheesecake Filling
 
 ## Recipe
 

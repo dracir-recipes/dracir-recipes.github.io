@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟧
 recipe-tags:
   - Dessert
   - Fall
@@ -10,6 +10,7 @@ recipe-tags:
   - Baking
   - Comfort Food
 recipe-type: Dessert
+thumbnail: /assets/images/croustade.webp
 ---
 
 # Fruit Croustade

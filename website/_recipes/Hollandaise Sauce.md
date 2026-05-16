@@ -2,12 +2,13 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟧
 recipe-tags:
   - French
   - Sauce
   - Breakfast
 recipe-type: Sauce
+thumbnail: /assets/images/hollandaise-sauce.webp
 ---
 
 # Hollandaise Sauce
@@ -30,3 +31,4 @@ recipe-type: Sauce
 
 ## Notes
 
+- For a richer flavor, use clarified butter.
