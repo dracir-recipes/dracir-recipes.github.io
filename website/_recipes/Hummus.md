@@ -2,13 +2,14 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟨
 recipe-tags:
   - Mediterranean
   - Vegan
   - Spread
   - Side Dish
 recipe-type: Appetizer
+thumbnail: /assets/images/hummus.webp
 ---
 
 # Hummus
@@ -29,4 +30,3 @@ recipe-type: Appetizer
 Add 1 cup of beets to the mix.
 
 ## Notes
-

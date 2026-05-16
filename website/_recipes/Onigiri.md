@@ -9,6 +9,7 @@ recipe-tags:
   - Portable
   - Snack
 recipe-type: Snack
+thumbnail: /assets/images/onigiri.webp
 ---
 
 # Onigiri

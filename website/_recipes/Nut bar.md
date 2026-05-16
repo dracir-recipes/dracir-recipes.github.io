@@ -2,7 +2,7 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟧
 recipe-tags:
   - Raw
   - Vegan
@@ -10,6 +10,7 @@ recipe-tags:
   - Energy Bars
   - Healthy
 recipe-type: Snack
+thumbnail: /assets/images/nut-bar.webp
 ---
 
 # Nut Bar

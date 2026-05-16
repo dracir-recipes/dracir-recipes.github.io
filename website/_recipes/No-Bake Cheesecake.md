@@ -2,12 +2,13 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟨
 recipe-tags:
   - No-Bake
   - Dessert
   - Make-Ahead
 recipe-type: Dessert
+thumbnail: /assets/images/no-bake-cheesecake.webp
 ---
 
 # No-Bake Cheesecake

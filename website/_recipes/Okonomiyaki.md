@@ -2,12 +2,13 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟨
 recipe-tags:
   - Japanese
   - Pancake
   - Comfort Food
 recipe-type: Meal
+thumbnail: /assets/images/okonomiyaki.webp
 ---
 
 # Okonomiyaki

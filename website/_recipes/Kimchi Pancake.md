@@ -7,6 +7,7 @@ recipe-tags:
   - Breakfast
   - Korean
 recipe-type: Breakfast
+thumbnail: /assets/images/kimchi-pancake.webp
 ---
 
 # Kimchi Pancake

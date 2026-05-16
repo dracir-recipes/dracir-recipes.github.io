@@ -9,6 +9,7 @@ recipe-tags:
   - Healthy
   - Winter Food
 recipe-type: Soup
+thumbnail: /assets/images/lentil-potato-soup.webp
 ---
 
 # Lentil Potato Soup Recipe

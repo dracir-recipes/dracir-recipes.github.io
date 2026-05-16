@@ -6,6 +6,7 @@ status: 🟨️
 recipe-tags:
   - Other
 recipe-type:
+thumbnail: /assets/images/mousse-de-crevettes.webp
 ---
 
 # Mousse de Crevettes

@@ -9,6 +9,7 @@ recipe-tags:
   - Asian-Inspired
   - Versatile
 recipe-type: Sauce
+thumbnail: /assets/images/nuts-sauce.webp
 ---
 
 # Nuts Sauce
