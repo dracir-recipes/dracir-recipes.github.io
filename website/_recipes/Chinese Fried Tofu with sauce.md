@@ -2,13 +2,14 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟥
 recipe-tags:
   - Chinese
   - Vegan
   - Fried
   - Spicy
 recipe-type: Main
+thumbnail: /assets/images/chinese-fried-tofu.webp
 ---
 
 # Chinese Fried Tofu with Sauce

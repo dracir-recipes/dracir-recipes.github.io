@@ -2,13 +2,14 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟥
 recipe-tags:
   - Healthy
   - Vegan
   - Gluten-Free
   - Dessert
 recipe-type: Dessert
+thumbnail: /assets/images/chocolate-hummus.webp
 ---
 
 # Dark Chocolate Hummus

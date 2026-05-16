@@ -2,13 +2,14 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟧
 recipe-tags:
   - Dessert
   - Sauce
   - French
   - Base Recipe
 recipe-type: Dessert
+thumbnail: /assets/images/custards.webp
 ---
 
 # Custard

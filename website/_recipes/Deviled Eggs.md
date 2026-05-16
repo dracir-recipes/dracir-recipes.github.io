@@ -2,13 +2,14 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟨
 recipe-tags:
   - Appetizer
   - Party Food
   - Vegetarian
   - Fusion
 recipe-type: Appetizer
+thumbnail: /assets/images/deviled-eggs.webp
 ---
 
 # Deviled Eggs

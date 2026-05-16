@@ -6,6 +6,7 @@ status: 🟨
 recipe-tags:
   - Dessert
 recipe-type: Dessert
+thumbnail: /assets/images/chocolate-custard.webp
 ---
 
 # Chocolate Custard

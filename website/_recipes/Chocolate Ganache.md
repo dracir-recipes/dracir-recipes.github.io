@@ -2,13 +2,14 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟧
 recipe-tags:
   - Dessert
   - Sauce
   - French
   - Make-Ahead
 recipe-type: Sauce
+thumbnail: /assets/images/chocolate-ganache.webp
 ---
 
 # Chocolate Ganache
