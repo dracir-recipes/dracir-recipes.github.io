@@ -9,6 +9,7 @@ recipe-tags:
   - Indian
   - Vegan
 recipe-type: Soup
+thumbnail: /assets/images/red-lentil-soup.webp
 ---
 
 # Red Lentil Soup

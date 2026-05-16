@@ -2,13 +2,14 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟧
 recipe-tags:
   - Healing
   - Comfort Food
   - Soup
   - Anti-Inflammatory
 recipe-type: Soup
+thumbnail: /assets/images/sick-soup.webp
 ---
 
 # Sick Soup

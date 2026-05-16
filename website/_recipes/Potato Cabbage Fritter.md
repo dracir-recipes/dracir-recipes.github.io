@@ -2,16 +2,18 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟧
 recipe-tags:
   - Vegetarian
   - Comfort Food
   - Eastern European
   - Pancakes
 recipe-type: Side
+thumbnail: /assets/images/potato-cabbage-fritter.webp
+
 ---
 
-# Smashed Potato Cabbage Pancakes
+# Potato Cabbage Fritter
 
 ## Recipe
 
