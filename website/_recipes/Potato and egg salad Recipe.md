@@ -2,13 +2,14 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟨
 recipe-tags:
   - Vegetarian
   - Salad
   - Summer Food
   - Make-Ahead
 recipe-type: Salad
+thumbnail: /assets/images/potato-egg-salad.webp
 ---
 
 # Potato and Egg Salad Recipe

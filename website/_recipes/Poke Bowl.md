@@ -2,13 +2,14 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟨
 recipe-tags:
   - Japanese
   - Fresh
   - Healthy
   - Bowl
 recipe-type: Meal
+thumbnail: /assets/images/poke-bowl.webp
 ---
 
 # Poke Bowl

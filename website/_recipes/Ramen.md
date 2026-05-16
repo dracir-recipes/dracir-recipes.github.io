@@ -2,13 +2,14 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟧
 recipe-tags:
   - Japanese
   - Soup
   - Comfort Food
   - Vegan-Adaptable
 recipe-type: Meal
+thumbnail: /assets/images/ramen.webp
 ---
 
 # Ramen

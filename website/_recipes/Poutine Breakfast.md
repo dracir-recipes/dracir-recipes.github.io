@@ -9,6 +9,7 @@ prep-time: 30 mins
 bake-time: 1 hour
 wait-time: 30 mins
 serving: 2 person
+thumbnail: /assets/images/poutine-breakfast.webp
 ---
 
 # Poutine Breakfast

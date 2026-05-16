@@ -10,6 +10,7 @@ recipe-tags:
   - Quick
   - Glaze
 recipe-type: Main
+thumbnail: /assets/images/pressure-cooker-ribs.webp
 ---
 
 # Pressure Cooker Ribs

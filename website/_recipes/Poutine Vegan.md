@@ -10,6 +10,7 @@ recipe-tags:
   - Tofu
   - Potatoes
 recipe-type: Main
+thumbnail: /assets/images/poutine-vegan.webp
 ---
 
 # Poutine Vegan

@@ -9,6 +9,7 @@ recipe-tags:
   - Dairy-Free
   - High Protein
 recipe-type: Cheese Alternative
+thumbnail: /assets/images/raw-seeds-cheese.webp
 ---
 
 # Raw Seeds Cheese
