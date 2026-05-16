@@ -2,13 +2,14 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: 🟩️
+status: 🟩
 recipe-tags:
   - Other
   - Meat
   - Stew
   - WinterFood
 recipe-type: Meal
+thumbnail: /assets/images/beef-chuck-stew.webp
 ---
 
 # Beef Chuck Stew

@@ -17,6 +17,9 @@
 		<article class="card p-4">
 			<header class="mb-3">
 				<h1 class="h2 mb-2">{{ page.title }}</h1>
+				{% if page.status != "🟩" %}
+				<span class="badge text-bg-secondary me-1">{{ page.status }}</span>
+				{% endif %}
 				{% if page.recipe-type %}
 				<span class="badge text-bg-primary me-1">{{ page.recipe-type }}</span>
 				{% endif %}

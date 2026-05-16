@@ -2,13 +2,14 @@
 tags: 
 aliases: 
 type: cooking-recipe
-status: �️
+status: 🟥
 recipe-tags:
   - Vegan
   - Mediterranean
   - Baked
   - Protein
 recipe-type: Main
+thumbnail: /assets/images/chickpea-couscous-meatballs.webp
 ---
 
 # Chickpea and Couscous Meatball

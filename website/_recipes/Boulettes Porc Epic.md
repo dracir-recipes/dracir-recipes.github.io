@@ -9,6 +9,7 @@ recipe-tags:
   - Comfort Food
   - One-Pot
 recipe-type: Main
+thumbnail: /assets/images/boulettes-porc-epic.webp
 ---
 
 # Boulettes Porc Epic

@@ -10,6 +10,7 @@ recipe-tags:
   - Baking
   - Gluten-Friendly
 recipe-type: Dessert
+thumbnail: /assets/images/black-beans-chocolate-cake.webp
 ---
 
 # Black Beans Chocolate Cake

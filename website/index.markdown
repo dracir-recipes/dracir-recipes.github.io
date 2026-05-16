@@ -17,19 +17,18 @@ layout: page
 
 <h2> recipes </h2>
 
-<div class="row mb-3 g-3 text-center">
+<div class="row mb-3 g-3 text-center recipes-div">
 {% for recipe in site.recipes %}
 <div class="col-sm-4">
 <div class="col">
-	<div class="card">
-		<a href="{{ recipe.url }}">
-			<img src="..." class="card-img-top" alt="...">
-		</a>
-		<div class="card-body">
-			<h5 class="card-title">{{ recipe.title }}</h5>
-			<p class="card-text"></p>
+	<a href="{{ recipe.url }}">
+		<div class="card">
+			<div class="card-body">
+			<img src="{{ recipe.thumbnail }}" class="card-img-top" alt="{{ recipe.title }}">
+				<h5 class="card-title">{{ recipe.title }}</h5>
+			</div>
 		</div>
-	</div>
+	</a>
 	</div>
 </div>
 {% endfor %}

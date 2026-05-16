@@ -8,6 +8,7 @@ recipe-tags:
   - Dessert
   - Baking
 recipe-type: Dessert
+thumbnail: /assets/images/banana-bread.jpg
 ---
 
 # Banana Bread
