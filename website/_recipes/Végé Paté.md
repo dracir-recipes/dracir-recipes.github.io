@@ -9,6 +9,7 @@ recipe-tags:
   - Make-Ahead
   - French-Inspired
 recipe-type: Appetizer
+thumbnail: /assets/images/vege-pate.webp
 ---
 
 # Végé Paté

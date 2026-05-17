@@ -6,6 +6,7 @@ status: 🟨
 recipe-tags:
   - Dessert
 recipe-type: Dessert
+thumbnail: /assets/images/yogurt-jello-dessert.webp
 ---
 
 # Yogurt Jello Dessert

@@ -6,9 +6,9 @@ status: 🟩️
 recipe-tags:
   - Japanese
   - Rice
-  - Make-Ahead
   - Traditional
 recipe-type: Main
+thumbnail: /assets/images/sushi.webp
 ---
 
 # Sushi

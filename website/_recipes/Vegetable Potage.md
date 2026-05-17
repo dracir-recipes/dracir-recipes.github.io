@@ -9,6 +9,7 @@ recipe-tags:
   - Simple
   - Comfort Food
 recipe-type: Soup
+thumbnail: /assets/images/vegetable-potage.webp
 ---
 
 # Vegetable Potage
