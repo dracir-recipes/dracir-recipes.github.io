@@ -20,10 +20,10 @@ thumbnail: /assets/images/pressure-cooker-ribs.webp
 ### A. Pressure Cook Ribs
 
 1. In a pressure cooker, cook on high pressure for 25-30 minutes:
-	- **1½ lbs Pork Spare Ribs, membrane removed**
-	- **1 cup Beef Stock or Low-Sodium Broth**
+	- 1½ lbs Pork Ribs, membrane removed
+	- cover with water
 
-2. Natural pressure release for 10 minutes, then quick release.
+2. Natural pressure release
 
 ### B. Make Glaze
 
@@ -47,3 +47,4 @@ thumbnail: /assets/images/pressure-cooker-ribs.webp
 
 # Notes
 
+- to try : Dry rub the ribs with salt for 15-24 hours 
