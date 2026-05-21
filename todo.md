@@ -16,4 +16,6 @@ Search
 
 - Proper page for recipe group ( like soups, potage, etc.)
 
+- Button to show toggle to cross line while cooking
+
 - /favicon.ico
