@@ -30,6 +30,9 @@ source: Alton Brown Cooks Food | Episode 24: The Dip's The Thing
 9. mix and add ( to help browning by raising the ph )
   - 1/4 teaspoon baking soda
   - 2 tablespoon water
+10. Cook for another 20 minutes
+11. Remove from heat and add
+    - pinch of black pepper
 
 
 ## Notes
