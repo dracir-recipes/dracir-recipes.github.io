@@ -1,7 +1,7 @@
 # Todo
 
+- ✅ Get keep recipes
 - Get preserving recipes
-- Get keep recipes
 - Get missing obsidian recipes
 
 - Redo recipes tags
