@@ -7,7 +7,7 @@ recipe-tags:
  - Techniques
 recipe-type: Dessert
 thumbnail: /assets/images/
-source: Alton Brown Cooks Food | Episode 24: The Dip's The Thing
+source: Alton Brown Cooks Food - Episode 24: The Dip's The Thing
 ---
 
 # Caramelized Onions
