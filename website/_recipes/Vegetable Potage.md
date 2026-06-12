@@ -4,14 +4,13 @@ aliases:
 type: cooking-recipe
 status: �️
 recipe-tags:
-  - Soup
-  - Vegan
-  - Simple
+  - Vegetarian
+  - Winter
   - Comfort Food
+  - One-Pot
 recipe-type: Soup
 thumbnail: /assets/images/vegetable-potage.webp
 ---
-
 # Vegetable Potage
 
 ## Recipe

@@ -4,10 +4,11 @@ aliases:
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-recipe-type: 
+  - Vegan
+  - Make-Ahead
+recipe-type: Condiment
 thumbnail: /assets/images/mustard-wholegrain.webp
 ---
-
 # Mustard Wholegrain
 
 ## Recipe

@@ -4,15 +4,13 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Healthy
-  - Vegan
-  - Dessert
-  - Baking
-  - Gluten-Friendly
+  - Vegetarian
+  - Chocolate
+  - Gluten-Free
+  - High-Protein
 recipe-type: Dessert
 thumbnail: /assets/images/black-beans-chocolate-cake.webp
 ---
-
 # Black Beans Chocolate Cake
 
 ## Recipe

@@ -5,13 +5,11 @@ type: cooking-recipe
 status: 🟧
 recipe-tags:
   - Japanese
-  - Soup
-  - Comfort Food
-  - Vegan-Adaptable
-recipe-type: Meal
+  - Umami
+  - Dinner
+recipe-type: Soup
 thumbnail: /assets/images/ramen.webp
 ---
-
 # Ramen
 
 ## Recipe

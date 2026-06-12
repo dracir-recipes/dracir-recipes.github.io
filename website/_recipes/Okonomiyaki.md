@@ -5,12 +5,11 @@ type: cooking-recipe
 status: 🟨
 recipe-tags:
   - Japanese
-  - Pancake
-  - Comfort Food
-recipe-type: Meal
+  - Dinner
+  - Umami
+recipe-type: Main
 thumbnail: /assets/images/okonomiyaki.webp
 ---
-
 # Okonomiyaki
 
 ## Recipe

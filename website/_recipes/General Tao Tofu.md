@@ -4,14 +4,13 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Chinese
-  - Vegan
-  - Sweet and Sour
-  - Fried
+  - Tofu
+  - Dinner
+  - Spicy
+  - Umami
 recipe-type: Main
 thumbnail: /assets/images/general-tao-tofu.webp
 ---
-
 # General Tao Tofu
 
 ## Recipe

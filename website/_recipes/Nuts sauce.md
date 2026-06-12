@@ -5,13 +5,11 @@ type: cooking-recipe
 status: 🟩️
 recipe-tags:
   - Vegan
-  - Sauce
-  - Asian-Inspired
-  - Versatile
-recipe-type: Sauce
+  - Quick
+  - Make-Ahead
+recipe-type: Condiment
 thumbnail: /assets/images/nuts-sauce.webp
 ---
-
 # Nuts Sauce
 
 ## Recipe

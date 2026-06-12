@@ -4,10 +4,12 @@ aliases:
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-recipe-type: 
+  - Vegetarian
+  - Spicy
+  - Make-Ahead
+recipe-type: Condiment
 thumbnail: /assets/images/sauce-piripiri-light.webp
 ---
-
 # Sauce Piripiri Light
 
 ## Recipe

@@ -4,9 +4,13 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
+  - Vegan
+  - Haitian
+  - Fermented
+  - Spicy
+recipe-type: Preserve
 thumbnail: /assets/images/fermented-style-pikliz.webp
 ---
-
 # Fermented style Pikliz
 
 ## Recipe

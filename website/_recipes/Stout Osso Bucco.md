@@ -1,15 +1,18 @@
 ---
 layout: recipe
+tags: 
+aliases: 
+type: cooking-recipe
 status: 🟩️
 recipe-tags:
-  - Meat
-  - Stew
-  - One Pot
-  - Stout
-recipe-type: Breakfast
+  - Beef
+  - Winter
+  - Dinner
+  - One-Pot
+  - Comfort Food
+recipe-type: Main
 thumbnail: /assets/images/stout-osso-bucco.webp
 ---
-
 # Stout Osso Bucco
 
 ## Recipe

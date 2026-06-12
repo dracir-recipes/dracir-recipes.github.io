@@ -5,13 +5,12 @@ type: cooking-recipe
 status: 🟨
 recipe-tags:
   - Vegan
-  - Sauce
-  - Quebecois
+  - Quick
+  - Spicy
   - Umami
-recipe-type: Sauce
+recipe-type: Condiment
 thumbnail: /assets/images/dragon-sauce.webp
 ---
-
 # Dragon Sauce
 
 ## Recipe

@@ -4,12 +4,11 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Meat
-  - Marinade
-recipe-type: Marinade
+  - Quick
+  - Make-Ahead
+recipe-type: Condiment
 thumbnail: /assets/images/marinades.webp
 ---
-
 # Marinades
 
 ## Asiatic Marinade

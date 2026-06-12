@@ -5,14 +5,11 @@ type: cooking-recipe
 status: 🟩️
 recipe-tags:
   - Vegan
-  - Canadian
   - Comfort Food
-  - Tofu
-  - Potatoes
+  - Dinner
 recipe-type: Main
 thumbnail: /assets/images/poutine-vegan.webp
 ---
-
 # Poutine Vegan
 
 ## Recipe

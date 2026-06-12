@@ -5,14 +5,11 @@ type: cooking-recipe
 status: 🟧
 recipe-tags:
   - Vegetarian
+  - Quick
   - Comfort Food
-  - Eastern European
-  - Pancakes
 recipe-type: Side
 thumbnail: /assets/images/potato-cabbage-fritter.webp
-
 ---
-
 # Potato Cabbage Fritter
 
 ## Recipe

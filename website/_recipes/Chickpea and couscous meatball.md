@@ -4,14 +4,14 @@ aliases:
 type: cooking-recipe
 status: 🟥
 recipe-tags:
-  - Vegan
   - Mediterranean
-  - Baked
-  - Protein
+  - Vegan
+  - High-Protein
+  - Meal Prep
+  - Make-Ahead
 recipe-type: Main
 thumbnail: /assets/images/chickpea-couscous-meatballs.webp
 ---
-
 # Chickpea and Couscous Meatball
 
 ## Recipe

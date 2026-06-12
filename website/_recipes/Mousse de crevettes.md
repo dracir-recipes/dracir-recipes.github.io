@@ -4,11 +4,13 @@ aliases:
 type: cooking-recipe
 status: 🟨️
 recipe-tags:
-  - Other
-recipe-type:
+  - Seafood
+  - Party
+  - Picnic
+  - Make-Ahead
+recipe-type: Side
 thumbnail: /assets/images/mousse-de-crevettes.webp
 ---
-
 # Mousse de Crevettes
 
 ## Recipe

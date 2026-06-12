@@ -4,10 +4,13 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
+  - Vegetarian
+  - No-Bake
+  - Make-Ahead
+  - Freezer-Friendly
 recipe-type: Dessert
 thumbnail: /assets/images/ninja-creami.webp
 ---
-
 # Ninja Creami
 
 ## Base Recipe

@@ -5,13 +5,14 @@ type: cooking-recipe
 status: 🟨
 recipe-tags:
   - Japanese
+  - Seafood
   - Fresh
-  - Healthy
-  - Bowl
-recipe-type: Meal
+  - Rice
+  - Lunch
+  - Dinner
+recipe-type: Main
 thumbnail: /assets/images/poke-bowl.webp
 ---
-
 # Poke Bowl
 
 ## Recipe

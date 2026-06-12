@@ -4,14 +4,14 @@ aliases:
 type: cooking-recipe
 status: �️
 recipe-tags:
-  - Soup
   - Vegan
-  - Healthy
-  - Winter Food
+  - Lentil
+  - One-Pot
+  - Winter
+  - Dinner
 recipe-type: Soup
 thumbnail: /assets/images/lentil-potato-soup.webp
 ---
-
 # Lentil Potato Soup Recipe
 
 ## Recipe

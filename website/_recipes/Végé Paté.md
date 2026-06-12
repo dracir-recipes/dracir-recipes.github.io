@@ -5,13 +5,12 @@ type: cooking-recipe
 status: 🟩️
 recipe-tags:
   - Vegan
-  - Spread
+  - Picnic
   - Make-Ahead
-  - French-Inspired
-recipe-type: Appetizer
+  - High-Protein
+recipe-type: Condiment
 thumbnail: /assets/images/vege-pate.webp
 ---
-
 # Végé Paté
 
 ## Recipe

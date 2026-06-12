@@ -3,10 +3,14 @@ tags:
 aliases: 
 type: cooking-recipe
 status: 🟧
-recipe-tags: 
+recipe-tags:
+  - Vegetarian
+  - High-Protein
+  - Chocolate
+  - Portable
+recipe-type: Snack
 thumbnail: /assets/images/puffed-quinoa-pvt-chocolate-bar.webp
 ---
-
 # Puffed Quinoa PVT Chocolate Bar
 
 ## Recipe

@@ -4,10 +4,13 @@ aliases:
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-recipe-type: 
+  - Vegetarian
+  - Snack
+  - Brunch
+  - Freezer-Friendly
+recipe-type: Baked Good
 thumbnail: /assets/images/sweet-muffins.webp
 ---
-
 # Sweet Muffins
 
 ## Basic Muffins

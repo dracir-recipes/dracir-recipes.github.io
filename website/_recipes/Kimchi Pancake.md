@@ -4,12 +4,12 @@ aliases:
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Breakfast
-  - Korean
-recipe-type: Breakfast
+  - Spicy
+  - Quick
+  - Lunch
+recipe-type: Snack
 thumbnail: /assets/images/kimchi-pancake.webp
 ---
-
 # Kimchi Pancake
 
 ## Recipe

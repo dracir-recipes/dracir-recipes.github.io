@@ -4,15 +4,13 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Raw
-  - Vegan
-  - No-Bake
-  - Energy Bars
-  - Healthy
+  - Vegetarian
+  - Portable
+  - Meal Prep
+  - High-Protein
 recipe-type: Snack
 thumbnail: /assets/images/nut-bar.webp
 ---
-
 # Nut Bar
 
 ## Recipe

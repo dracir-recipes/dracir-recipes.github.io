@@ -4,10 +4,12 @@ aliases:
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-recipe-type: 
+  - Vegetarian
+  - Quick
+  - Make-Ahead
+recipe-type: Condiment
 thumbnail: /assets/images/mayonnaise.webp
 ---
-
 # Mayonnaise
 
 ## Recipe

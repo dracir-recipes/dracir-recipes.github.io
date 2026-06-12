@@ -4,14 +4,13 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - French
-  - Dessert
+  - Vegetarian
   - No-Bake
-  - Elegant
+  - Make-Ahead
+  - Party
 recipe-type: Dessert
 thumbnail: /assets/images/grand-marnier-cheesecake-filling.webp
 ---
-
 # Grand Marnier Cheesecake Filling
 
 ## Recipe

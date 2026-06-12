@@ -5,13 +5,12 @@ type: cooking-recipe
 status: 🟩️
 recipe-tags:
   - Vegan
-  - Raw
   - Dairy-Free
-  - High Protein
-recipe-type: Cheese Alternative
+  - High-Protein
+  - No-Bake
+recipe-type: Condiment
 thumbnail: /assets/images/raw-seeds-cheese.webp
 ---
-
 # Raw Seeds Cheese
 
 ## Recipe

@@ -4,14 +4,13 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Dessert
-  - Sauce
-  - French
+  - Vegetarian
+  - Chocolate
   - Make-Ahead
-recipe-type: Sauce
+  - No-Bake
+recipe-type: Condiment
 thumbnail: /assets/images/chocolate-ganache.webp
 ---
-
 # Chocolate Ganache
 
 ## Recipe

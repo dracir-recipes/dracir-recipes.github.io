@@ -4,10 +4,12 @@ aliases:
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-recipe-type: 
+  - Vegetarian
+  - Brunch
+  - Portable
+recipe-type: Baked Good
 thumbnail: /assets/images/scones.webp
 ---
-
 # Savory Scones
 
 ## Recipe

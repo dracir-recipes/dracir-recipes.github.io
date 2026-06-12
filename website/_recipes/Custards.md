@@ -4,14 +4,11 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
+  - Make-Ahead
   - Dessert
-  - Sauce
-  - French
-  - Base Recipe
 recipe-type: Dessert
 thumbnail: /assets/images/custards.webp
 ---
-
 # Custard
 
 ## Recipe

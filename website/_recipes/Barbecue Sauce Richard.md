@@ -3,11 +3,13 @@ tags: #🍲
 aliases: 
 type: cooking-recipe
 status: 🟨
-recipe-tags: 
-  - canning
+recipe-tags:
+  - Make-Ahead
+  - Smoky
+  - Spicy
+recipe-type: Preserving
 thumbnail: /assets/images/barbecue-sauce.webp
 ---
-
 # Barbecue Sauce Richard
 
 ## Recipe

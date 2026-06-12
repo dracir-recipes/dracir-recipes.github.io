@@ -7,11 +7,10 @@ recipe-tags:
   - Japanese
   - Rice
   - Portable
-  - Snack
+  - Picnic
 recipe-type: Snack
 thumbnail: /assets/images/onigiri.webp
 ---
-
 # Onigiri
 
 ## Overview

@@ -5,12 +5,13 @@ type: cooking-recipe
 status: 🟩️
 recipe-tags:
   - Japanese
+  - Seafood
   - Rice
-  - Traditional
+  - Picnic
+  - Party
 recipe-type: Main
 thumbnail: /assets/images/sushi.webp
 ---
-
 # Sushi
 
 ## Recipe

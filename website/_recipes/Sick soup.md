@@ -4,14 +4,13 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Healing
+  - Winter
   - Comfort Food
-  - Soup
-  - Anti-Inflammatory
+  - One-Pot
+  - Dinner
 recipe-type: Soup
 thumbnail: /assets/images/sick-soup.webp
 ---
-
 # Sick Soup
 
 ## Recipe

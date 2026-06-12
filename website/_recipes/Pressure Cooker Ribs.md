@@ -4,15 +4,13 @@ aliases:
 type: cooking-recipe
 status: 🟩️
 recipe-tags:
-  - Meat
+  - Pork
   - Pressure Cooker
-  - BBQ
-  - Quick
-  - Glaze
+  - Dinner
+  - Comfort Food
 recipe-type: Main
 thumbnail: /assets/images/pressure-cooker-ribs.webp
 ---
-
 # Pressure Cooker Ribs
 
 ## Recipe

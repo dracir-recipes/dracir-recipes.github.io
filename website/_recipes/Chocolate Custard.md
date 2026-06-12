@@ -4,11 +4,12 @@ aliases:
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Dessert
+  - Vegetarian
+  - Chocolate
+  - Make-Ahead
 recipe-type: Dessert
 thumbnail: /assets/images/chocolate-custard.webp
 ---
-
 # Chocolate Custard
 
 ## Recipe

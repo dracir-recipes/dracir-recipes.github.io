@@ -4,12 +4,11 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Salad
-  - Dressing
-recipe-type: Salad Dressing
+  - Quick
+  - Make-Ahead
+recipe-type: Condiment
 thumbnail: /assets/images/salad-dressings.webp
 ---
-
 # Salad Dressings
 
 ## Base Recipe

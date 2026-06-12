@@ -4,10 +4,15 @@ aliases:
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-recipe-type: 
+  - Taiwanese
+  - Pork
+  - Pressure Cooker
+  - Dinner
+  - Comfort Food
+  - Umami
+recipe-type: Main
 thumbnail: /assets/images/traditional-taiwanese-braised-pork-hock.webp
 ---
-
 # Traditional Taiwanese Braised Pork Hock
 
 ## Recipe

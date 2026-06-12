@@ -4,13 +4,13 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - French
-  - Sauce
-  - Breakfast
-recipe-type: Sauce
+  - Vegetarian
+  - Egg
+  - Brunch
+  - Quick
+recipe-type: Condiment
 thumbnail: /assets/images/hollandaise-sauce.webp
 ---
-
 # Hollandaise Sauce
 
 ## Recipe

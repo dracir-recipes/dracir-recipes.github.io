@@ -1,17 +1,21 @@
 ---
 layout: recipe
+tags: 
+aliases: 
+type: cooking-recipe
 status: 🟩️
-recipe-tags:
-  - Quebecois
-  - Breakfast
-recipe-type: Breakfast
 prep-time: 30 mins
 bake-time: 1 hour
 wait-time: 30 mins
 serving: 2 person
+recipe-tags:
+  - Quebecois
+  - Egg
+  - Comfort Food
+  - Brunch
+recipe-type: Breakfast
 thumbnail: /assets/images/poutine-breakfast.webp
 ---
-
 # Poutine Breakfast
 
 ## Assembly

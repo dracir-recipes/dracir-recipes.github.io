@@ -5,14 +5,13 @@ type: cooking-recipe
 status: 🟧
 recipe-tags:
   - Vegan
-  - Salad
-  - High Protein
-  - Summer Food
-  - Make-Ahead
+  - High-Protein
+  - Lentil
+  - Meal Prep
+  - Lunch
 recipe-type: Salad
 thumbnail: /assets/images/high-protein-vegan-lentil-salad.webp
 ---
-
 # High Protein Vegan Lentil Salad
 
 ## Recipe

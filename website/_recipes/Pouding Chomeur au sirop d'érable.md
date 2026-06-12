@@ -4,10 +4,12 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
+  - Quebecois
+  - Comfort Food
+  - Party
 recipe-type: Dessert
 thumbnail: /assets/images/pouding-chomeur-au-sirop-d-erable.webp
 ---
-
 # Pouding Chomeur au sirop d'érable
 
 ## Recipe

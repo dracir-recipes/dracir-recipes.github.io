@@ -4,9 +4,14 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
+  - Haitian
+  - Pork
+  - Dinner
+  - Party
+  - Comfort Food
+recipe-type: Main
 thumbnail: /assets/images/haitian-pork-griot.webp
 ---
-
 # Haitian Pork Griot
 
 ## Recipe

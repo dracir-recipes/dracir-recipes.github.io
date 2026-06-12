@@ -4,14 +4,14 @@ aliases:
 type: cooking-recipe
 status: 🟩
 recipe-tags:
-  - Soup
-  - Side Dish
-  - Indian
   - Vegan
+  - Lentil
+  - Quick
+  - Winter
+  - Dinner
 recipe-type: Soup
 thumbnail: /assets/images/red-lentil-soup.webp
 ---
-
 # Red Lentil Soup
 
 ## Recipe

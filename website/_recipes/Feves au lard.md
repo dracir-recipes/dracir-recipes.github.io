@@ -1,13 +1,19 @@
 ---
 layout: recipe
+tags: 
+aliases: 
+type: cooking-recipe
 status: 🟩️
 recipe-tags:
   - Quebecois
-  - Breakfast
+  - Pork
+  - Brunch
+  - Make-Ahead
+  - Comfort Food
+  - Winter
 recipe-type: Breakfast
 thumbnail: /assets/images/feves-au-lard.webp
 ---
-
 # Fèves au lard
 
 ## Recipe

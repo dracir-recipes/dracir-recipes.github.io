@@ -4,14 +4,13 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Soup
-  - Seafood
+  - Winter
   - Comfort Food
-  - Winter Food
+  - Dinner
+  - One-Pot
 recipe-type: Soup
 thumbnail: /assets/images/chowder.webp
 ---
-
 # Chowder
 
 ## Recipe

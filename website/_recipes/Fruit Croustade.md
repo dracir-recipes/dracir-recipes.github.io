@@ -4,15 +4,12 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Dessert
-  - Fall
-  - Fruit
-  - Baking
-  - Comfort Food
+  - Vegetarian
+  - Autumn
+  - Potluck
 recipe-type: Dessert
 thumbnail: /assets/images/croustade.webp
 ---
-
 # Fruit Croustade
 
 ## Recipe

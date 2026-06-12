@@ -3,11 +3,14 @@ tags: #🍲
 aliases: 
 type: cooking-recipe
 status: 🟨
-recipe-tags: 
-  - canning
+recipe-tags:
+  - Vegan
+  - Fermented
+  - Make-Ahead
+  - Winter
+recipe-type: Preserve
 thumbnail: /assets/images/fermented-cabbage.webp
 ---
-
 # Fermented Cabbage
 
 ## Base Recipe

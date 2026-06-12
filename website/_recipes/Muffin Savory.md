@@ -4,10 +4,13 @@ aliases:
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-recipe-type: 
+  - Brunch
+  - Portable
+  - Snack
+  - Freezer-Friendly
+recipe-type: Baked Good
 thumbnail: /assets/images/savory-muffins.webp
 ---
-
 # Savory Muffins
 
 ## Cheese and Herb Savory Muffins

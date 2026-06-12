@@ -3,12 +3,14 @@ tags:
 aliases: 
 type: cooking-recipe
 status: 🟧
-recipe-tags:
- - Techniques
-recipe-type: Dessert
 source: Alton Brown Cooks Food Episode 24 The Dip's The Thing
+recipe-tags:
+  - Vegetarian
+  - Make-Ahead
+  - Freezer-Friendly
+  - Umami
+recipe-type: Side
 ---
-
 # Caramelized Onions
 
 ## Recipe

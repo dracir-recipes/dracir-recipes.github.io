@@ -1,11 +1,16 @@
 ---
 layout: recipe
+tags: 
+aliases: 
+type: cooking-recipe
 status: 🟩️
 recipe-tags:
-recipe-type: Tonic
+  - Vegan
+  - Make-Ahead
+  - Spicy
+recipe-type: Drink
 thumbnail: /assets/images/fire-cider.webp
 ---
-
 # Fire Cider
 
 ## Recipe

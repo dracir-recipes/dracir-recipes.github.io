@@ -4,14 +4,13 @@ aliases:
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Mediterranean
   - Vegan
-  - Spread
-  - Side Dish
-recipe-type: Appetizer
+  - High-Protein
+  - Make-Ahead
+  - Picnic
+recipe-type: Snack
 thumbnail: /assets/images/hummus.webp
 ---
-
 # Hummus
 
 ## Recipe

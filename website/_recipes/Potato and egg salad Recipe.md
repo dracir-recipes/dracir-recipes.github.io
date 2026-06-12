@@ -5,13 +5,12 @@ type: cooking-recipe
 status: 🟨
 recipe-tags:
   - Vegetarian
-  - Salad
-  - Summer Food
+  - Egg
+  - Picnic
   - Make-Ahead
 recipe-type: Salad
 thumbnail: /assets/images/potato-egg-salad.webp
 ---
-
 # Potato and Egg Salad Recipe
 
 ## Recipe

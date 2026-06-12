@@ -4,14 +4,13 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
+  - Pork
+  - Dinner
+  - Winter
   - Quebecois
-  - Meat
-  - Comfort Food
-  - One-Pot
 recipe-type: Main
 thumbnail: /assets/images/boulettes-porc-epic.webp
 ---
-
 # Boulettes Porc Epic
 
 ## Recipe

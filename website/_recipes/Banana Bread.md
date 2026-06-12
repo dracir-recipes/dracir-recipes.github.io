@@ -5,13 +5,14 @@ type: cooking-recipe
 status: 🟧
 recipe-tags:
   - Vegetarian
-  - Dessert
-  - Baking
-recipe-type: Dessert
+  - Snack
+  - Make-Ahead
+  - Freezer-Friendly
+recipe-type: Baked Good
 thumbnail: /assets/images/banana-bread.jpg
 ---
 
-# Banana Bread GBLALAAA
+# Banana Bread
 
 ## Recipe
 
