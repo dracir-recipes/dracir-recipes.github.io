@@ -11,26 +11,36 @@
 </head>
 
 <body>
-	<div class="container py-4">
-		<a href="/" class="btn btn-outline-secondary btn-sm mb-3">Back to cookbook</a>
+	<div class="container py-4 recipe-page">
+		<a href="/" class="btn btn-outline-secondary btn-sm mb-3 recipe-back-btn">Back to cookbook</a>
 
-		<article class="card p-4">
-			<header class="mb-3">
-				<h1 class="h2 mb-2">{{ page.title }}</h1>
-				{% if page.status != "🟩" %}
-				<span class="badge text-bg-secondary me-1">{{ page.status }}</span>
-				{% endif %}
-				{% if page.recipe-type %}
-				<a href="{{ '/' | relative_url }}?type={{ page.recipe-type | cgi_escape }}" class="badge text-bg-primary text-decoration-none me-1">{{ page.recipe-type }}</a>
-				{% endif %}
-				{% if page.recipe-tags %}
-					{% for tag in page.recipe-tags %}
-					<a href="{{ '/' | relative_url }}?tag={{ tag | cgi_escape }}" class="badge text-bg-secondary text-decoration-none me-1">{{ tag }}</a>
-					{% endfor %}
-				{% endif %}
+		<article class="card p-4 recipe-shell">
+			<header class="recipe-header mb-4">
+				<h1 class="h2 mb-3">{{ page.title }}</h1>
+				<div class="d-flex flex-wrap align-items-center gap-2 recipe-meta-row">
+					{% if page.status != "🟩" %}
+					<span class="badge text-bg-secondary">{{ page.status }}</span>
+					{% endif %}
+					{% if page.recipe-type %}
+					<a href="{{ '/' | relative_url }}?type={{ page.recipe-type | cgi_escape }}" class="badge text-bg-primary text-decoration-none">{{ page.recipe-type }}</a>
+					{% endif %}
+					{% if page.recipe-tags %}
+						{% for tag in page.recipe-tags %}
+						<a href="{{ '/' | relative_url }}?tag={{ tag | cgi_escape }}" class="badge text-bg-secondary text-decoration-none">{{ tag }}</a>
+						{% endfor %}
+					{% endif %}
+				</div>
 			</header>
 
-			{{ content }}
+			{% if page.thumbnail %}
+			<figure class="recipe-hero mb-4">
+				<img src="{{ page.thumbnail }}" alt="{{ page.title }}" loading="lazy" class="img-fluid rounded-4 w-100">
+			</figure>
+			{% endif %}
+
+			<div class="recipe-content">
+				{{ content }}
+			</div>
 		</article>
 	</div>
 
