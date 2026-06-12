@@ -10,12 +10,12 @@
 
 Search
 
-- By tags
-- By type
+- ✅ By tags
+- ✅ By type
 - Word search ( with tags support )
 
-- Proper page for recipe group ( like soups, potage, etc.)
+- ✅ Proper page for recipe group ( like soups, potage, etc.)
 
-- Button to show toggle to cross line while cooking
+- ✅ Button to show toggle to cross line while cooking
 
 - /favicon.ico
