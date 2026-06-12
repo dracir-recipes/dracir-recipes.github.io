@@ -78,6 +78,11 @@ backdrop-filter: blur(3px);
 border-radius: 999px;
 }
 
+.recipe-checklist-toggle {
+border-radius: 999px;
+font-weight: 600;
+}
+
 .recipe-header h1 {
 color: #20346c;
 line-height: 1.2;
@@ -141,6 +146,37 @@ padding-left: 1.2rem;
 
 .recipe-content li {
 margin-bottom: 0.45rem;
+}
+
+.recipe-content li.checklist-ready {
+position: relative;
+padding-left: 2rem;
+}
+
+.recipe-content li .recipe-check-item {
+display: none;
+position: absolute;
+left: 0;
+top: 0.18rem;
+width: 1.15rem;
+height: 1.15rem;
+accent-color: #20346c;
+cursor: pointer;
+}
+
+.recipe-content.checklist-enabled li .recipe-check-item {
+display: inline-block;
+}
+
+.recipe-content li.is-checked {
+opacity: 0.72;
+}
+
+.recipe-content li.is-checked > :not(.recipe-check-item),
+.recipe-content li.is-checked {
+text-decoration: line-through;
+text-decoration-thickness: 1.5px;
+text-decoration-color: rgba(32, 52, 108, 0.6);
 }
 
 .recipe-content li > ul,
