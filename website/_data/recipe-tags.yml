@@ -1,0 +1,158 @@
+notes:
+  - "Recipe tags are multi-select filters."
+  - "Tags should describe discoverability: diet, season, cuisine, occasion, technique, or ingredient focus."
+  - "Prefer a small set of clear tags over many near-duplicates."
+
+groups:
+  - name: Diet
+    tags:
+      - id: vegan
+        label: Vegan
+        description: No animal products.
+      - id: vegetarian
+        label: Vegetarian
+        description: No meat or seafood.
+      - id: pescetarian
+        label: Pescetarian
+        description: Seafood is allowed, meat is not.
+      - id: dairy-free
+        label: Dairy-Free
+        description: No milk, cream, butter, or cheese.
+      - id: gluten-free
+        label: Gluten-Free
+        description: Naturally gluten-free or intentionally made without gluten ingredients.
+      - id: high-protein
+        label: High-Protein
+        description: Protein-forward recipes such as lentil, tofu, meat, or protein dessert recipes.
+
+  - name: Season and Mood
+    tags:
+      - id: spring
+        label: Spring
+        description: Light or bright recipes that fit spring cooking.
+      - id: summer
+        label: Summer
+        description: Fresh, cold, grilled, or picnic-friendly recipes.
+      - id: autumn
+        label: Autumn
+        description: Cozy recipes built around harvest flavors.
+      - id: winter
+        label: Winter
+        description: Cold-weather food, braises, soups, and comfort dishes.
+      - id: comfort-food
+        label: Comfort Food
+        description: Rich, cozy, or nostalgic dishes.
+      - id: fresh
+        label: Fresh
+        description: Crisp, bright, or cold-served recipes.
+
+  - name: Occasion
+    tags:
+      - id: brunch
+        label: Brunch
+        description: Works especially well for late breakfast or brunch.
+      - id: lunch
+        label: Lunch
+        description: Suitable for a lighter midday meal.
+      - id: dinner
+        label: Dinner
+        description: Suitable as a dinner option.
+      - id: snack
+        label: Snack
+        description: Good for grazing or between meals.
+      - id: party
+        label: Party
+        description: Shareable or presentation-friendly for guests.
+      - id: potluck
+        label: Potluck
+        description: Travels and scales well for group meals.
+      - id: picnic
+        label: Picnic
+        description: Easy to pack, carry, or serve cold.
+
+  - name: Prep and Storage
+    tags:
+      - id: quick
+        label: Quick
+        description: Weeknight-friendly or fast to assemble.
+      - id: make-ahead
+        label: Make-Ahead
+        description: Improves or holds well when prepared in advance.
+      - id: meal-prep
+        label: Meal Prep
+        description: Useful for batch cooking or storing portions.
+      - id: portable
+        label: Portable
+        description: Easy to transport or pack.
+      - id: one-pot
+        label: One-Pot
+        description: Mostly prepared in one vessel.
+      - id: pressure-cooker
+        label: Pressure Cooker
+        description: Designed for a pressure cooker or Instant Pot workflow.
+      - id: no-bake
+        label: No-Bake
+        description: No oven baking required.
+      - id: fermented
+        label: Fermented
+        description: Uses fermentation as part of the recipe.
+      - id: pickled
+        label: Pickled
+        description: Vinegar-pickled or quick-pickled preparations.
+      - id: freezer-friendly
+        label: Freezer-Friendly
+        description: Freezes well for later use.
+
+  - name: Cuisine and Flavor
+    tags:
+      - id: japanese
+        label: Japanese
+        description: Japanese-inspired flavors or format.
+      - id: taiwanese
+        label: Taiwanese
+        description: Taiwanese-inspired dish.
+      - id: haitian
+        label: Haitian
+        description: Haitian-inspired flavors or traditions.
+      - id: quebecois
+        label: Quebecois
+        description: Quebec-style comfort food or desserts.
+      - id: french-inspired
+        label: French-Inspired
+        description: French technique or flavor profile.
+      - id: spicy
+        label: Spicy
+        description: Built around heat or chile.
+      - id: smoky
+        label: Smoky
+        description: Smoke, barbecue, or char-driven flavor.
+      - id: umami
+        label: Umami
+        description: Deep savory flavors from soy, mushrooms, anchovy, miso, or slow cooking.
+
+  - name: Ingredient Focus
+    tags:
+      - id: tofu
+        label: Tofu
+        description: Tofu is a central ingredient.
+      - id: seafood
+        label: Seafood
+        description: Fish or shellfish is a central ingredient.
+      - id: pork
+        label: Pork
+        description: Pork is a central ingredient.
+      - id: beef
+        label: Beef
+        description: Beef is a central ingredient.
+      - id: egg
+        label: Egg
+        description: Eggs are a defining ingredient.
+      - id: lentil
+        label: Lentil
+        description: Lentils are central to the recipe.
+      - id: rice
+        label: Rice
+        description: Rice is central to the dish structure.
+      - id: chocolate
+        label: Chocolate
+        description: Chocolate is a defining flavor.
