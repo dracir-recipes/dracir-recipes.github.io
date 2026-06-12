@@ -5,31 +5,191 @@
 layout: page
 ---
 
-<h1>Cookbook</h1>
+# Cookbook
 
-<h2> filters </h2>
-<ul>
-	<li><span class="badge rounded-pill text-bg-primary">Breakfast</span></li>
-	<li><span class="badge rounded-pill text-bg-secondary">Meat</span></li>
-	<li><span class="badge rounded-pill text-bg-success">Vegetarian</span></li>
-	<li><span class="badge rounded-pill text-bg-warning">Snacks</span></li>
-</ul>
+{% assign recipes = site.recipes | sort: "title" %}
+<section class="recipe-catalog" data-recipe-catalog>
+	<div class="card p-4 mb-4 catalog-panel">
+		<div class="d-flex flex-column flex-lg-row align-items-lg-start justify-content-between gap-3 mb-3">
+			<div>
+				<h2 class="h4 mb-2">Filter recipes</h2>
+				<p class="text-muted mb-0">Pick one recipe type and any number of tags.</p>
+			</div>
+			<button type="button" class="btn btn-outline-secondary btn-sm" data-clear-filters>Clear filters</button>
+		</div>
 
-<h2> recipes </h2>
-
-<div class="row mb-3 g-3 text-center recipes-div">
-{% for recipe in site.recipes %}
-<div class="col-sm-4">
-<div class="col">
-	<a href="{{ recipe.url }}">
-		<div class="card">
-			<div class="card-body">
-			<img src="{{ recipe.thumbnail }}" class="card-img-top" alt="{{ recipe.title }}">
-				<h5 class="card-title">{{ recipe.title }}</h5>
+		<div class="filter-group mb-4">
+			<h3 class="h6 text-uppercase text-muted mb-2">Recipe Type</h3>
+			<div class="d-flex flex-wrap gap-2">
+				{% for type in site.data.recipe-types.types %}
+				<button
+					type="button"
+					class="btn btn-outline-primary btn-sm filter-chip"
+					data-filter-kind="type"
+					data-filter-value="{{ type.label | downcase }}"
+					aria-pressed="false"
+				>
+					{{ type.label }}
+				</button>
+				{% endfor %}
 			</div>
 		</div>
-	</a>
+
+		<div class="filter-group">
+			<h3 class="h6 text-uppercase text-muted mb-3">Recipe Tags</h3>
+			<div class="d-flex flex-column gap-3">
+				{% for group in site.data.recipe-tags.groups %}
+				<div>
+					<p class="small text-muted mb-2">{{ group.name }}</p>
+					<div class="d-flex flex-wrap gap-2">
+						{% for tag in group.tags %}
+						<button
+							type="button"
+							class="btn btn-outline-secondary btn-sm filter-chip"
+							data-filter-kind="tag"
+							data-filter-value="{{ tag.label | downcase }}"
+							aria-pressed="false"
+						>
+							{{ tag.label }}
+						</button>
+						{% endfor %}
+					</div>
+				</div>
+				{% endfor %}
+			</div>
+		</div>
 	</div>
-</div>
-{% endfor %}
-</div>
+
+	<div class="d-flex align-items-center justify-content-between gap-3 mb-3">
+		<h2 class="h4 mb-0">Recipes</h2>
+		<p class="small text-muted mb-0" data-results-count>{{ recipes.size }} recipes</p>
+	</div>
+
+	<div class="row mb-3 g-3 recipes-div" data-recipe-grid>
+		{% for recipe in recipes %}
+		{% assign recipe_tags = recipe.recipe-tags | default: empty %}
+		<div
+			class="col-sm-6 col-lg-4"
+			data-recipe-card
+			data-type="{{ recipe.recipe-type | downcase }}"
+			data-tags="{% for tag in recipe_tags %}{{ tag | downcase }}{% unless forloop.last %}|{% endunless %}{% endfor %}"
+		>
+			<a href="{{ recipe.url }}" class="text-decoration-none">
+				<div class="card h-100 recipe-card">
+					<img src="{{ recipe.thumbnail }}" class="card-img-top" alt="{{ recipe.title }}">
+					<div class="card-body d-flex flex-column gap-3">
+						<div>
+							<h3 class="h5 card-title mb-2">{{ recipe.title }}</h3>
+						</div>
+					</div>
+				</div>
+			</a>
+		</div>
+		{% endfor %}
+	</div>
+
+	<p class="text-muted d-none" data-empty-state>No recipes match the current filters.</p>
+</section>
+
+<script>
+	(() => {
+		const root = document.querySelector('[data-recipe-catalog]');
+		if (!root) {
+			return;
+		}
+
+		const cards = Array.from(root.querySelectorAll('[data-recipe-card]'));
+		const buttons = Array.from(root.querySelectorAll('[data-filter-kind]'));
+		const clearButton = root.querySelector('[data-clear-filters]');
+		const resultsCount = root.querySelector('[data-results-count]');
+		const emptyState = root.querySelector('[data-empty-state]');
+
+		const normalize = (value) => value.trim().toLowerCase();
+		const state = {
+			type: '',
+			tags: new Set(),
+		};
+
+		const readParams = () => {
+			const params = new URLSearchParams(window.location.search);
+			const type = params.get('type');
+			const tags = params.getAll('tag').flatMap((value) => value.split(','));
+
+			state.type = type ? normalize(type) : '';
+			state.tags = new Set(tags.filter(Boolean).map(normalize));
+		};
+
+		const writeParams = () => {
+			const params = new URLSearchParams();
+			if (state.type) {
+				params.set('type', state.type);
+			}
+			if (state.tags.size) {
+				params.set('tag', Array.from(state.tags).join(','));
+			}
+
+			const query = params.toString();
+			const nextUrl = query ? `${window.location.pathname}?${query}` : window.location.pathname;
+			window.history.replaceState({}, '', nextUrl);
+		};
+
+		const syncButtons = () => {
+			buttons.forEach((button) => {
+				const kind = button.dataset.filterKind;
+				const value = button.dataset.filterValue;
+				const isActive = kind === 'type' ? state.type === value : state.tags.has(value);
+
+				button.classList.toggle('active', isActive);
+				button.setAttribute('aria-pressed', String(isActive));
+			});
+		};
+
+		const render = () => {
+			let visibleCount = 0;
+
+			cards.forEach((card) => {
+				const type = card.dataset.type || '';
+				const tags = new Set((card.dataset.tags || '').split('|').filter(Boolean));
+				const matchesType = !state.type || type === state.type;
+				const matchesTags = Array.from(state.tags).every((tag) => tags.has(tag));
+				const isVisible = matchesType && matchesTags;
+
+				card.classList.toggle('d-none', !isVisible);
+				if (isVisible) {
+					visibleCount += 1;
+				}
+			});
+
+			resultsCount.textContent = `${visibleCount} recipe${visibleCount === 1 ? '' : 's'}`;
+			emptyState.classList.toggle('d-none', visibleCount !== 0);
+			syncButtons();
+			writeParams();
+		};
+
+		buttons.forEach((button) => {
+			button.addEventListener('click', () => {
+				const kind = button.dataset.filterKind;
+				const value = button.dataset.filterValue;
+
+				if (kind === 'type') {
+					state.type = state.type === value ? '' : value;
+				} else if (state.tags.has(value)) {
+					state.tags.delete(value);
+				} else {
+					state.tags.add(value);
+				}
+
+				render();
+			});
+		});
+
+		clearButton.addEventListener('click', () => {
+			state.type = '';
+			state.tags.clear();
+			render();
+		});
+
+		readParams();
+		render();
+	})();
+</script>

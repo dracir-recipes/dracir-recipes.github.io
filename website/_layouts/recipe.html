@@ -21,11 +21,11 @@
 				<span class="badge text-bg-secondary me-1">{{ page.status }}</span>
 				{% endif %}
 				{% if page.recipe-type %}
-				<span class="badge text-bg-primary me-1">{{ page.recipe-type }}</span>
+				<a href="{{ '/' | relative_url }}?type={{ page.recipe-type | cgi_escape }}" class="badge text-bg-primary text-decoration-none me-1">{{ page.recipe-type }}</a>
 				{% endif %}
 				{% if page.recipe-tags %}
 					{% for tag in page.recipe-tags %}
-					<span class="badge text-bg-secondary me-1">{{ tag }}</span>
+					<a href="{{ '/' | relative_url }}?tag={{ tag | cgi_escape }}" class="badge text-bg-secondary text-decoration-none me-1">{{ tag }}</a>
 					{% endfor %}
 				{% endif %}
 			</header>
