@@ -9,60 +9,72 @@ layout: page
 
 {% assign recipes = site.recipes | sort: "title" %}
 <section class="recipe-catalog" data-recipe-catalog>
-	<div class="card p-4 mb-4 catalog-panel">
-		<div class="d-flex flex-column flex-lg-row align-items-lg-start justify-content-between gap-3 mb-3">
-			<div>
-				<h2 class="h4 mb-2">Filter recipes</h2>
-				<p class="text-muted mb-0">Pick one recipe type and any number of tags.</p>
-			</div>
-			<button type="button" class="btn btn-outline-secondary btn-sm" data-clear-filters>Clear filters</button>
-		</div>
-
-		<div class="filter-group mb-4">
-			<h3 class="h6 text-uppercase text-muted mb-2">Recipe Type</h3>
-			<div class="d-flex flex-wrap gap-2">
-				{% for type in site.data.recipe-types.types %}
-				<button
-					type="button"
-					class="btn btn-outline-primary btn-sm filter-chip"
-					data-filter-kind="type"
-					data-filter-value="{{ type.label | downcase }}"
-					aria-pressed="false"
-				>
-					{{ type.label }}
-				</button>
-				{% endfor %}
-			</div>
-		</div>
-
-		<div class="filter-group">
-			<h3 class="h6 text-uppercase text-muted mb-3">Recipe Tags</h3>
-			<div class="d-flex flex-column gap-3">
-				{% for group in site.data.recipe-tags.groups %}
-				<div>
-					<p class="small text-muted mb-2">{{ group.name }}</p>
-					<div class="d-flex flex-wrap gap-2">
-						{% for tag in group.tags %}
-						<button
-							type="button"
-							class="btn btn-outline-secondary btn-sm filter-chip"
-							data-filter-kind="tag"
-							data-filter-value="{{ tag.label | downcase }}"
-							aria-pressed="false"
-						>
-							{{ tag.label }}
-						</button>
-						{% endfor %}
-					</div>
-				</div>
-				{% endfor %}
-			</div>
+	<div class="d-flex flex-wrap align-items-center justify-content-between gap-3 mb-3">
+		<div class="d-flex align-items-center gap-2">
+			<button
+				type="button"
+				class="btn btn-outline-secondary btn-sm"
+				data-bs-toggle="collapse"
+				data-bs-target="#recipe-filter-panel"
+				aria-expanded="false"
+				aria-controls="recipe-filter-panel"
+			>
+				Show filters
+			</button>
+			<p class="small text-muted mb-0" data-results-count>{{ recipes.size }} recipes</p>
 		</div>
 	</div>
 
-	<div class="d-flex align-items-center justify-content-between gap-3 mb-3">
-		<h2 class="h4 mb-0">Recipes</h2>
-		<p class="small text-muted mb-0" data-results-count>{{ recipes.size }} recipes</p>
+	<div class="collapse mb-4" id="recipe-filter-panel" data-filter-panel>
+		<div class="card p-4 catalog-panel">
+			<div class="d-flex flex-column flex-lg-row align-items-lg-start justify-content-between gap-3 mb-3">
+				<div>
+					<h3 class="h4 mb-2">Filter recipes</h3>
+				</div>
+				<button type="button" class="btn btn-outline-secondary btn-sm" data-clear-filters>Clear filters</button>
+			</div>
+
+			<div class="filter-group mb-4">
+				<h3 class="h6 text-uppercase text-muted mb-2">Recipe Type</h3>
+				<div class="d-flex flex-wrap gap-2">
+					{% for type in site.data.recipe-types.types %}
+					<button
+						type="button"
+						class="btn btn-outline-primary btn-sm filter-chip"
+						data-filter-kind="type"
+						data-filter-value="{{ type.label | downcase }}"
+						aria-pressed="false"
+					>
+						{{ type.label }}
+					</button>
+					{% endfor %}
+				</div>
+			</div>
+
+			<div class="filter-group">
+				<h3 class="h6 text-uppercase text-muted mb-3">Recipe Tags</h3>
+				<div class="d-flex flex-column gap-3">
+					{% for group in site.data.recipe-tags.groups %}
+					<div>
+						<p class="small text-muted mb-2">{{ group.name }}</p>
+						<div class="d-flex flex-wrap gap-2">
+							{% for tag in group.tags %}
+							<button
+								type="button"
+								class="btn btn-outline-secondary btn-sm filter-chip"
+								data-filter-kind="tag"
+								data-filter-value="{{ tag.label | downcase }}"
+								aria-pressed="false"
+							>
+								{{ tag.label }}
+							</button>
+							{% endfor %}
+						</div>
+					</div>
+					{% endfor %}
+				</div>
+			</div>
+		</div>
 	</div>
 
 	<div class="row mb-3 g-3 recipes-div" data-recipe-grid>
@@ -103,6 +115,8 @@ layout: page
 		const clearButton = root.querySelector('[data-clear-filters]');
 		const resultsCount = root.querySelector('[data-results-count]');
 		const emptyState = root.querySelector('[data-empty-state]');
+		const filterPanel = root.querySelector('[data-filter-panel]');
+		const toggleButton = root.querySelector('[data-bs-toggle="collapse"]');
 
 		const normalize = (value) => value.trim().toLowerCase();
 		const state = {
@@ -189,7 +203,21 @@ layout: page
 			render();
 		});
 
+		filterPanel.addEventListener('shown.bs.collapse', () => {
+			toggleButton.textContent = 'Hide filters';
+		});
+
+		filterPanel.addEventListener('hidden.bs.collapse', () => {
+			toggleButton.textContent = 'Show filters';
+		});
+
 		readParams();
 		render();
+
+		if (state.type || state.tags.size) {
+			const collapse = bootstrap.Collapse.getOrCreateInstance(filterPanel, { toggle: false });
+			collapse.show();
+			toggleButton.textContent = 'Hide filters';
+		}
 	})();
 </script>

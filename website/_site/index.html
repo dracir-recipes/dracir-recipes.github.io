@@ -15,299 +15,304 @@
 	<h1 id="cookbook">Cookbook</h1>
 
 <section class="recipe-catalog" data-recipe-catalog="">
-	<div class="card p-4 mb-4 catalog-panel">
-		<div class="d-flex flex-column flex-lg-row align-items-lg-start justify-content-between gap-3 mb-3">
-			<div>
-				<h2 class="h4 mb-2">Filter recipes</h2>
-				<p class="text-muted mb-0">Pick one recipe type and any number of tags.</p>
-			</div>
-			<button type="button" class="btn btn-outline-secondary btn-sm" data-clear-filters="">Clear filters</button>
-		</div>
-
-		<div class="filter-group mb-4">
-			<h3 class="h6 text-uppercase text-muted mb-2">Recipe Type</h3>
-			<div class="d-flex flex-wrap gap-2">
-				
-				<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="breakfast" aria-pressed="false">
-					Breakfast
-				</button>
-				
-				<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="baked good" aria-pressed="false">
-					Baked Good
-				</button>
-				
-				<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="condiment" aria-pressed="false">
-					Condiment
-				</button>
-				
-				<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="dessert" aria-pressed="false">
-					Dessert
-				</button>
-				
-				<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="drink" aria-pressed="false">
-					Drink
-				</button>
-				
-				<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="main" aria-pressed="false">
-					Main
-				</button>
-				
-				<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="preserve" aria-pressed="false">
-					Preserve
-				</button>
-				
-				<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="salad" aria-pressed="false">
-					Salad
-				</button>
-				
-				<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="side" aria-pressed="false">
-					Side
-				</button>
-				
-				<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="snack" aria-pressed="false">
-					Snack
-				</button>
-				
-				<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="soup" aria-pressed="false">
-					Soup
-				</button>
-				
-			</div>
-		</div>
-
-		<div class="filter-group">
-			<h3 class="h6 text-uppercase text-muted mb-3">Recipe Tags</h3>
-			<div class="d-flex flex-column gap-3">
-				
-				<div>
-					<p class="small text-muted mb-2">Diet</p>
-					<div class="d-flex flex-wrap gap-2">
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="vegan" aria-pressed="false">
-							Vegan
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="vegetarian" aria-pressed="false">
-							Vegetarian
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="pescetarian" aria-pressed="false">
-							Pescetarian
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="dairy-free" aria-pressed="false">
-							Dairy-Free
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="gluten-free" aria-pressed="false">
-							Gluten-Free
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="high-protein" aria-pressed="false">
-							High-Protein
-						</button>
-						
-					</div>
-				</div>
-				
-				<div>
-					<p class="small text-muted mb-2">Season and Mood</p>
-					<div class="d-flex flex-wrap gap-2">
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="spring" aria-pressed="false">
-							Spring
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="summer" aria-pressed="false">
-							Summer
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="autumn" aria-pressed="false">
-							Autumn
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="winter" aria-pressed="false">
-							Winter
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="comfort food" aria-pressed="false">
-							Comfort Food
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="fresh" aria-pressed="false">
-							Fresh
-						</button>
-						
-					</div>
-				</div>
-				
-				<div>
-					<p class="small text-muted mb-2">Occasion</p>
-					<div class="d-flex flex-wrap gap-2">
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="brunch" aria-pressed="false">
-							Brunch
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="lunch" aria-pressed="false">
-							Lunch
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="dinner" aria-pressed="false">
-							Dinner
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="snack" aria-pressed="false">
-							Snack
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="party" aria-pressed="false">
-							Party
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="potluck" aria-pressed="false">
-							Potluck
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="picnic" aria-pressed="false">
-							Picnic
-						</button>
-						
-					</div>
-				</div>
-				
-				<div>
-					<p class="small text-muted mb-2">Prep and Storage</p>
-					<div class="d-flex flex-wrap gap-2">
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="quick" aria-pressed="false">
-							Quick
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="make-ahead" aria-pressed="false">
-							Make-Ahead
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="meal prep" aria-pressed="false">
-							Meal Prep
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="portable" aria-pressed="false">
-							Portable
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="one-pot" aria-pressed="false">
-							One-Pot
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="pressure cooker" aria-pressed="false">
-							Pressure Cooker
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="no-bake" aria-pressed="false">
-							No-Bake
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="fermented" aria-pressed="false">
-							Fermented
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="pickled" aria-pressed="false">
-							Pickled
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="freezer-friendly" aria-pressed="false">
-							Freezer-Friendly
-						</button>
-						
-					</div>
-				</div>
-				
-				<div>
-					<p class="small text-muted mb-2">Cuisine and Flavor</p>
-					<div class="d-flex flex-wrap gap-2">
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="japanese" aria-pressed="false">
-							Japanese
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="taiwanese" aria-pressed="false">
-							Taiwanese
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="haitian" aria-pressed="false">
-							Haitian
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="quebecois" aria-pressed="false">
-							Quebecois
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="french-inspired" aria-pressed="false">
-							French-Inspired
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="spicy" aria-pressed="false">
-							Spicy
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="smoky" aria-pressed="false">
-							Smoky
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="umami" aria-pressed="false">
-							Umami
-						</button>
-						
-					</div>
-				</div>
-				
-				<div>
-					<p class="small text-muted mb-2">Ingredient Focus</p>
-					<div class="d-flex flex-wrap gap-2">
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="tofu" aria-pressed="false">
-							Tofu
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="seafood" aria-pressed="false">
-							Seafood
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="pork" aria-pressed="false">
-							Pork
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="beef" aria-pressed="false">
-							Beef
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="egg" aria-pressed="false">
-							Egg
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="lentil" aria-pressed="false">
-							Lentil
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="rice" aria-pressed="false">
-							Rice
-						</button>
-						
-						<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="chocolate" aria-pressed="false">
-							Chocolate
-						</button>
-						
-					</div>
-				</div>
-				
-			</div>
+	<div class="d-flex flex-wrap align-items-center justify-content-between gap-3 mb-3">
+		<div class="d-flex align-items-center gap-2">
+			<button type="button" class="btn btn-outline-secondary btn-sm" data-bs-toggle="collapse" data-bs-target="#recipe-filter-panel" aria-expanded="false" aria-controls="recipe-filter-panel">
+				Show filters
+			</button>
+			<p class="small text-muted mb-0" data-results-count="">69 recipes</p>
 		</div>
 	</div>
 
-	<div class="d-flex align-items-center justify-content-between gap-3 mb-3">
-		<h2 class="h4 mb-0">Recipes</h2>
-		<p class="small text-muted mb-0" data-results-count="">69 recipes</p>
+	<div class="collapse mb-4" id="recipe-filter-panel" data-filter-panel="">
+		<div class="card p-4 catalog-panel">
+			<div class="d-flex flex-column flex-lg-row align-items-lg-start justify-content-between gap-3 mb-3">
+				<div>
+					<h3 class="h4 mb-2">Filter recipes</h3>
+				</div>
+				<button type="button" class="btn btn-outline-secondary btn-sm" data-clear-filters="">Clear filters</button>
+			</div>
+
+			<div class="filter-group mb-4">
+				<h3 class="h6 text-uppercase text-muted mb-2">Recipe Type</h3>
+				<div class="d-flex flex-wrap gap-2">
+					
+					<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="breakfast" aria-pressed="false">
+						Breakfast
+					</button>
+					
+					<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="baked good" aria-pressed="false">
+						Baked Good
+					</button>
+					
+					<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="condiment" aria-pressed="false">
+						Condiment
+					</button>
+					
+					<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="dessert" aria-pressed="false">
+						Dessert
+					</button>
+					
+					<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="drink" aria-pressed="false">
+						Drink
+					</button>
+					
+					<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="main" aria-pressed="false">
+						Main
+					</button>
+					
+					<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="preserve" aria-pressed="false">
+						Preserve
+					</button>
+					
+					<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="salad" aria-pressed="false">
+						Salad
+					</button>
+					
+					<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="side" aria-pressed="false">
+						Side
+					</button>
+					
+					<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="snack" aria-pressed="false">
+						Snack
+					</button>
+					
+					<button type="button" class="btn btn-outline-primary btn-sm filter-chip" data-filter-kind="type" data-filter-value="soup" aria-pressed="false">
+						Soup
+					</button>
+					
+				</div>
+			</div>
+
+			<div class="filter-group">
+				<h3 class="h6 text-uppercase text-muted mb-3">Recipe Tags</h3>
+				<div class="d-flex flex-column gap-3">
+					
+					<div>
+						<p class="small text-muted mb-2">Diet</p>
+						<div class="d-flex flex-wrap gap-2">
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="vegan" aria-pressed="false">
+								Vegan
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="vegetarian" aria-pressed="false">
+								Vegetarian
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="pescetarian" aria-pressed="false">
+								Pescetarian
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="dairy-free" aria-pressed="false">
+								Dairy-Free
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="gluten-free" aria-pressed="false">
+								Gluten-Free
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="high-protein" aria-pressed="false">
+								High-Protein
+							</button>
+							
+						</div>
+					</div>
+					
+					<div>
+						<p class="small text-muted mb-2">Season and Mood</p>
+						<div class="d-flex flex-wrap gap-2">
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="spring" aria-pressed="false">
+								Spring
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="summer" aria-pressed="false">
+								Summer
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="autumn" aria-pressed="false">
+								Autumn
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="winter" aria-pressed="false">
+								Winter
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="comfort food" aria-pressed="false">
+								Comfort Food
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="fresh" aria-pressed="false">
+								Fresh
+							</button>
+							
+						</div>
+					</div>
+					
+					<div>
+						<p class="small text-muted mb-2">Occasion</p>
+						<div class="d-flex flex-wrap gap-2">
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="brunch" aria-pressed="false">
+								Brunch
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="lunch" aria-pressed="false">
+								Lunch
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="dinner" aria-pressed="false">
+								Dinner
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="snack" aria-pressed="false">
+								Snack
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="party" aria-pressed="false">
+								Party
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="potluck" aria-pressed="false">
+								Potluck
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="picnic" aria-pressed="false">
+								Picnic
+							</button>
+							
+						</div>
+					</div>
+					
+					<div>
+						<p class="small text-muted mb-2">Prep and Storage</p>
+						<div class="d-flex flex-wrap gap-2">
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="quick" aria-pressed="false">
+								Quick
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="make-ahead" aria-pressed="false">
+								Make-Ahead
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="meal prep" aria-pressed="false">
+								Meal Prep
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="portable" aria-pressed="false">
+								Portable
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="one-pot" aria-pressed="false">
+								One-Pot
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="pressure cooker" aria-pressed="false">
+								Pressure Cooker
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="no-bake" aria-pressed="false">
+								No-Bake
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="fermented" aria-pressed="false">
+								Fermented
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="pickled" aria-pressed="false">
+								Pickled
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="freezer-friendly" aria-pressed="false">
+								Freezer-Friendly
+							</button>
+							
+						</div>
+					</div>
+					
+					<div>
+						<p class="small text-muted mb-2">Cuisine and Flavor</p>
+						<div class="d-flex flex-wrap gap-2">
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="japanese" aria-pressed="false">
+								Japanese
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="taiwanese" aria-pressed="false">
+								Taiwanese
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="haitian" aria-pressed="false">
+								Haitian
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="quebecois" aria-pressed="false">
+								Quebecois
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="french-inspired" aria-pressed="false">
+								French-Inspired
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="spicy" aria-pressed="false">
+								Spicy
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="smoky" aria-pressed="false">
+								Smoky
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="umami" aria-pressed="false">
+								Umami
+							</button>
+							
+						</div>
+					</div>
+					
+					<div>
+						<p class="small text-muted mb-2">Ingredient Focus</p>
+						<div class="d-flex flex-wrap gap-2">
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="tofu" aria-pressed="false">
+								Tofu
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="seafood" aria-pressed="false">
+								Seafood
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="pork" aria-pressed="false">
+								Pork
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="beef" aria-pressed="false">
+								Beef
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="egg" aria-pressed="false">
+								Egg
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="lentil" aria-pressed="false">
+								Lentil
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="rice" aria-pressed="false">
+								Rice
+							</button>
+							
+							<button type="button" class="btn btn-outline-secondary btn-sm filter-chip" data-filter-kind="tag" data-filter-value="chocolate" aria-pressed="false">
+								Chocolate
+							</button>
+							
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</div>
 	</div>
 
 	<div class="row mb-3 g-3 recipes-div" data-recipe-grid="">
@@ -1295,6 +1300,8 @@
 		const clearButton = root.querySelector('[data-clear-filters]');
 		const resultsCount = root.querySelector('[data-results-count]');
 		const emptyState = root.querySelector('[data-empty-state]');
+		const filterPanel = root.querySelector('[data-filter-panel]');
+		const toggleButton = root.querySelector('[data-bs-toggle="collapse"]');
 
 		const normalize = (value) => value.trim().toLowerCase();
 		const state = {
@@ -1381,8 +1388,22 @@
 			render();
 		});
 
+		filterPanel.addEventListener('shown.bs.collapse', () => {
+			toggleButton.textContent = 'Hide filters';
+		});
+
+		filterPanel.addEventListener('hidden.bs.collapse', () => {
+			toggleButton.textContent = 'Show filters';
+		});
+
 		readParams();
 		render();
+
+		if (state.type || state.tags.size) {
+			const collapse = bootstrap.Collapse.getOrCreateInstance(filterPanel, { toggle: false });
+			collapse.show();
+			toggleButton.textContent = 'Hide filters';
+		}
 	})();
 </script>
 
