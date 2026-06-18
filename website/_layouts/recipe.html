@@ -18,9 +18,6 @@
 			<header class="recipe-header mb-4">
 				<h1 class="h2 mb-3">{{ page.title }}</h1>
 				<div class="d-flex flex-wrap align-items-center gap-2 recipe-meta-row">
-					{% if page.status != "🟩" %}
-					<span class="badge text-bg-secondary">{{ page.status }}</span>
-					{% endif %}
 					{% if page.recipe-type %}
 					<a href="{{ '/' | relative_url }}?type={{ page.recipe-type | cgi_escape }}" class="badge text-bg-primary text-decoration-none">{{ page.recipe-type }}</a>
 					{% endif %}
@@ -37,11 +34,11 @@
 				</div>
 			</header>
 
-			{% if page.thumbnail %}
+			{% comment %} {% if page.thumbnail %}
 			<figure class="recipe-hero mb-4">
 				<img src="{{ page.thumbnail }}" alt="{{ page.title }}" loading="lazy" class="img-fluid rounded-4 w-100">
 			</figure>
-			{% endif %}
+			{% endif %} {% endcomment %}
 
 			<div class="recipe-content">
 				{{ content }}
