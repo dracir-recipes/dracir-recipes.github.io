@@ -1,12 +1,10 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: �️
 recipe-tags:
-  - Vegan
-  - Lentil
-  - One-Pot
   - Winter
   - Dinner
 recipe-type: Soup

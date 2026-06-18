@@ -1,13 +1,12 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟩️
 recipe-tags:
-  - Vegan
-  - Dairy-Free
-  - High-Protein
-  - No-Bake
+  - Snack
+  - Picnic
 recipe-type: Condiment
 thumbnail: /assets/images/raw-seeds-cheese.webp
 ---

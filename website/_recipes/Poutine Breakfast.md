@@ -1,4 +1,5 @@
 ---
+
 layout: recipe
 tags: 
 aliases: 
@@ -10,7 +11,6 @@ wait-time: 30 mins
 serving: 2 person
 recipe-tags:
   - Quebecois
-  - Egg
   - Comfort Food
   - Brunch
 recipe-type: Breakfast

@@ -1,9 +1,12 @@
 ---
+
 tags: #🍲
 aliases: 
 type: cooking-recipe
 status: 🟨
 recipe-tags:
+  - Brunch
+  - Snack
 recipe-type: Baked Good
 thumbnail: /assets/images/bread.webp
 ---

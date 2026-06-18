@@ -1,10 +1,12 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
   - Picnic
+  - Fresh
 recipe-type: Preserving
 thumbnail: /assets/images/cured-salmon.webp
 ---

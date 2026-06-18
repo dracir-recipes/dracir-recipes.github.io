@@ -1,12 +1,11 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Vegetarian
   - Lunch
-  - Meal Prep
   - Picnic
   - Fresh
 recipe-type: Salad

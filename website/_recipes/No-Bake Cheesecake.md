@@ -1,12 +1,10 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Vegetarian
-  - No-Bake
-  - Make-Ahead
   - Party
 recipe-type: Dessert
 thumbnail: /assets/images/no-bake-cheesecake.webp

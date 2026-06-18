@@ -1,13 +1,11 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Vegetarian
-  - Egg
   - Picnic
-  - Make-Ahead
 recipe-type: Salad
 thumbnail: /assets/images/potato-egg-salad.webp
 ---

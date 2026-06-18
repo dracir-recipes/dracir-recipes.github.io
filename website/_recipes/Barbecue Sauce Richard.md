@@ -1,9 +1,12 @@
 ---
+
 tags: #🍲
 aliases: 
 type: cooking-recipe
 status: 🟨
 recipe-tags:
+  - Summer
+  - Party
 recipe-type: Preserving
 thumbnail: /assets/images/barbecue-sauce.webp
 ---

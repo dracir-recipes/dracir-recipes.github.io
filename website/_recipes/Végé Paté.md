@@ -1,13 +1,11 @@
 ---
+
 tags: #🍲
 aliases: 
 type: cooking-recipe
 status: 🟩️
 recipe-tags:
-  - Vegan
   - Picnic
-  - Make-Ahead
-  - High-Protein
 recipe-type: Condiment
 thumbnail: /assets/images/vege-pate.webp
 ---

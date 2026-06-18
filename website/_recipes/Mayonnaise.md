@@ -1,12 +1,12 @@
 ---
+
+
 tags: #🍲
 aliases: 
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Vegetarian
-  - Quick
-  - Make-Ahead
+  - Picnic
 recipe-type: Condiment
 thumbnail: /assets/images/mayonnaise.webp
 ---

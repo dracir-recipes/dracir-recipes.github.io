@@ -1,13 +1,11 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟥
 recipe-tags:
   - Japanese
-  - Quick
-  - Make-Ahead
-  - Umami
 recipe-type: Condiment
 thumbnail: /assets/images/wafu-dressing.webp
 ---

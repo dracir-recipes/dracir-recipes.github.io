@@ -1,11 +1,10 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Vegetarian
-  - Quick
   - Comfort Food
 recipe-type: Side
 thumbnail: /assets/images/potato-cabbage-fritter.webp

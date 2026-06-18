@@ -1,13 +1,11 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Vegetarian
-  - Egg
   - Brunch
-  - Quick
 recipe-type: Condiment
 thumbnail: /assets/images/hollandaise-sauce.webp
 ---

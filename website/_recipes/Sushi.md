@@ -1,12 +1,11 @@
 ---
+
 tags: #🍲
 aliases: 
 type: cooking-recipe
 status: 🟩️
 recipe-tags:
   - Japanese
-  - Seafood
-  - Rice
   - Picnic
   - Party
 recipe-type: Main

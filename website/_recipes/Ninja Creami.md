@@ -1,13 +1,12 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Vegetarian
-  - No-Bake
-  - Make-Ahead
-  - Freezer-Friendly
+  - Comfort Food
+  - Party
 recipe-type: Dessert
 thumbnail: /assets/images/ninja-creami.webp
 ---

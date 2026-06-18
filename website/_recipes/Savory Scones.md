@@ -1,12 +1,11 @@
 ---
+
 tags: #🍲
 aliases: 
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Vegetarian
   - Brunch
-  - Portable
 recipe-type: Baked Good
 thumbnail: /assets/images/scones.webp
 ---

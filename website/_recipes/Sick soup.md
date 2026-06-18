@@ -1,4 +1,5 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
@@ -6,7 +7,6 @@ status: 🟧
 recipe-tags:
   - Winter
   - Comfort Food
-  - One-Pot
   - Dinner
 recipe-type: Soup
 thumbnail: /assets/images/sick-soup.webp

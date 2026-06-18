@@ -1,14 +1,13 @@
 ---
+
 layout: recipe
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟩️
 recipe-tags:
-  - Beef
   - Winter
   - Dinner
-  - One-Pot
   - Comfort Food
 recipe-type: Main
 thumbnail: /assets/images/stout-osso-bucco.webp

@@ -1,13 +1,11 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Vegetarian
-  - Make-Ahead
   - Party
-  - No-Bake
 recipe-type: Dessert
 thumbnail: /assets/images/yogurt-jello-dessert.webp
 ---

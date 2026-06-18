@@ -1,10 +1,10 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Vegetarian
   - Autumn
   - Potluck
 recipe-type: Dessert

@@ -1,12 +1,12 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟩️
 recipe-tags:
-  - Vegan
-  - Quick
-  - Make-Ahead
+  - Fresh
+  - Snack
 recipe-type: Condiment
 thumbnail: /assets/images/nuts-sauce.webp
 ---

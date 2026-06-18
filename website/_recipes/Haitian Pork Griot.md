@@ -1,11 +1,11 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
   - Haitian
-  - Pork
   - Dinner
   - Party
   - Comfort Food

@@ -1,10 +1,10 @@
 ---
+
 tags: #🍲
 aliases: 
 type: cooking-recipe
 status: 🟩️
 recipe-tags:
-  - Vegan
   - Comfort Food
   - Dinner
 recipe-type: Main

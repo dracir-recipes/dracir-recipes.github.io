@@ -1,13 +1,11 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Tofu
   - Dinner
-  - Spicy
-  - Umami
 recipe-type: Main
 thumbnail: /assets/images/general-tao-tofu.webp
 ---

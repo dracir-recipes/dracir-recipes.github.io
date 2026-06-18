@@ -1,14 +1,13 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Vegan
-  - Tofu
-  - Chocolate
-  - No-Bake
-  - High-Protein
+  - Comfort Food
+  - Party
+  - Snack
 recipe-type: Dessert
 thumbnail: /assets/images/tofu-chocolate-mousse.webp
 ---

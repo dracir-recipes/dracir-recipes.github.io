@@ -1,11 +1,11 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
   - Japanese
-  - Umami
   - Dinner
 recipe-type: Soup
 thumbnail: /assets/images/ramen.webp

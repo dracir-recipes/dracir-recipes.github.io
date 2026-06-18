@@ -1,11 +1,10 @@
 ---
+
 tags: #🍲
 aliases: 
 type: cooking-recipe
 status: 🟩️
 recipe-tags:
-  - Pork
-  - Pressure Cooker
   - Dinner
   - Comfort Food
 recipe-type: Main

@@ -1,10 +1,11 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟥
 recipe-tags:
-  - Chinese
+  - Dinner
 recipe-type: Main
 thumbnail: /assets/images/chinese-fried-tofu.webp
 ---

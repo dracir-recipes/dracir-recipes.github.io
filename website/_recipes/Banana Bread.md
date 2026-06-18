@@ -1,11 +1,13 @@
 ---
+
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
   - Snack
-  - Freezer-Friendly
+  - Brunch
 recipe-type: Baked Good
 thumbnail: /assets/images/banana-bread.jpg
 ---

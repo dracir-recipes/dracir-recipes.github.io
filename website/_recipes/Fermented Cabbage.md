@@ -1,10 +1,11 @@
 ---
+
 tags: #🍲
 aliases: 
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Fermented
+  - Fresh
 recipe-type: Preserving
 thumbnail: /assets/images/fermented-cabbage.webp
 ---

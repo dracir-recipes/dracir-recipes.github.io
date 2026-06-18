@@ -1,4 +1,5 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
@@ -6,7 +7,6 @@ status: 🟨
 recipe-tags:
   - Japanese
   - Dinner
-  - Umami
 recipe-type: Main
 thumbnail: /assets/images/okonomiyaki.webp
 ---

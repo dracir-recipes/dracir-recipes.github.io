@@ -1,11 +1,11 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
   - Haitian
-  - Fermented
 recipe-type: Preserving
 thumbnail: /assets/images/fermented-style-pikliz.webp
 ---

@@ -1,10 +1,12 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 source: Alton Brown Cooks Food Episode 24 The Dip's The Thing
 recipe-tags:
+  - Comfort Food
 recipe-type: Side
 ---
 # Caramelized Onions

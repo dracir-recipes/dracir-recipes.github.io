@@ -1,9 +1,13 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟥
 recipe-tags:
+  - Snack
+  - Picnic
+  - Fresh
 recipe-type: Dessert
 thumbnail: /assets/images/chocolate-hummus.webp
 ---

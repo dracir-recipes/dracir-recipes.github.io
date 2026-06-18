@@ -1,11 +1,12 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Quick
-  - Make-Ahead
+  - Fresh
+  - Picnic
 recipe-type: Condiment
 thumbnail: /assets/images/salad-dressings.webp
 ---

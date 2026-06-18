@@ -1,13 +1,12 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟨
 recipe-tags:
   - Japanese
-  - Seafood
   - Fresh
-  - Rice
   - Lunch
   - Dinner
 recipe-type: Main

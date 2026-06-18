@@ -1,11 +1,10 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Spicy
-  - Quick
   - Lunch
 recipe-type: Snack
 thumbnail: /assets/images/kimchi-pancake.webp

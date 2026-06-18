@@ -1,12 +1,11 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟩️
 recipe-tags:
   - Japanese
-  - Rice
-  - Portable
   - Picnic
 recipe-type: Snack
 thumbnail: /assets/images/onigiri.webp

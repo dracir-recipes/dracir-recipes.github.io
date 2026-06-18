@@ -1,13 +1,10 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Vegan
-  - High-Protein
-  - Lentil
-  - Meal Prep
   - Lunch
 recipe-type: Salad
 thumbnail: /assets/images/high-protein-vegan-lentil-salad.webp

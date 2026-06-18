@@ -1,9 +1,12 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
+  - Comfort Food
+  - Party
 recipe-type: Condiment
 thumbnail: /assets/images/chocolate-ganache.webp
 ---

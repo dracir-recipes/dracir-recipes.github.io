@@ -1,9 +1,11 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟨
 recipe-tags:
+  - Dinner
 recipe-type: Condiment
 thumbnail: /assets/images/dragon-sauce.webp
 ---

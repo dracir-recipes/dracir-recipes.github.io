@@ -1,13 +1,12 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Vegetarian
-  - Portable
-  - Meal Prep
-  - High-Protein
+  - Snack
+  - Picnic
 recipe-type: Snack
 thumbnail: /assets/images/nut-bar.webp
 ---

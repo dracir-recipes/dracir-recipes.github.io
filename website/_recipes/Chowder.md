@@ -1,11 +1,11 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
   - Winter
-  - One-Pot
 recipe-type: Soup
 thumbnail: /assets/images/chowder.webp
 ---

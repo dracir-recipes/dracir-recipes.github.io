@@ -1,10 +1,11 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟥
 recipe-tags:
-  - Mediterranean
+  - Dinner
 recipe-type: Main
 thumbnail: /assets/images/chickpea-couscous-meatballs.webp
 ---

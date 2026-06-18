@@ -1,11 +1,12 @@
 ---
+
+
 tags: #🍲
 aliases: 
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Vegan
-  - Make-Ahead
+  - Picnic
 recipe-type: Condiment
 thumbnail: /assets/images/mustard-wholegrain.webp
 ---

@@ -1,12 +1,13 @@
 ---
+
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Cold
   - Party
-  - No-Bake
+  - Fresh
 recipe-type: Dessert
 thumbnail: /assets/images/ambrosia-salad.webp
 ---

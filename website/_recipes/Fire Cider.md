@@ -1,13 +1,12 @@
 ---
+
 layout: recipe
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟩️
 recipe-tags:
-  - Vegan
-  - Make-Ahead
-  - Spicy
+  - Winter
 recipe-type: Drink
 thumbnail: /assets/images/fire-cider.webp
 ---

@@ -1,12 +1,12 @@
 ---
+
 tags: #🍲
 aliases: 
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Vegetarian
-  - Spicy
-  - Make-Ahead
+  - Summer
+  - Dinner
 recipe-type: Condiment
 thumbnail: /assets/images/sauce-piripiri-light.webp
 ---

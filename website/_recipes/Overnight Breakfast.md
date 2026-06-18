@@ -1,13 +1,11 @@
 ---
+
 tags: 
 aliases: 
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Vegetarian
-  - Meal Prep
-  - Make-Ahead
-  - Quick
+  - Brunch
 recipe-type: Breakfast
 thumbnail: /assets/images/overnight-breakfast.webp
 ---

@@ -1,13 +1,12 @@
 ---
+
 tags: #🍲
 aliases: 
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Vegetarian
   - Snack
   - Brunch
-  - Freezer-Friendly
 recipe-type: Baked Good
 thumbnail: /assets/images/sweet-muffins.webp
 ---

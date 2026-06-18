@@ -1,13 +1,12 @@
 ---
+
 tags: #🍲
 aliases: 
 type: cooking-recipe
 status: 🟨
 recipe-tags:
   - Brunch
-  - Portable
   - Snack
-  - Freezer-Friendly
 recipe-type: Baked Good
 thumbnail: /assets/images/savory-muffins.webp
 ---
