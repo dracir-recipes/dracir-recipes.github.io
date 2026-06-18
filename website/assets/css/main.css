@@ -83,6 +83,10 @@ border-radius: 999px;
 font-weight: 600;
 }
 
+.recipe-wait-badge {
+color: #5a3c00;
+}
+
 .recipe-header h1 {
 color: #20346c;
 line-height: 1.2;
@@ -148,6 +152,13 @@ padding-left: 1.2rem;
 margin-bottom: 0.45rem;
 }
 
+.recipe-content li.recipe-step-has-timer {
+display: flex;
+flex-wrap: wrap;
+align-items: center;
+gap: 0.45rem 0.7rem;
+}
+
 .recipe-content li.checklist-ready {
 position: relative;
 padding-left: 2rem;
@@ -182,6 +193,102 @@ text-decoration-color: rgba(32, 52, 108, 0.6);
 .recipe-content li > ul,
 .recipe-content li > ol {
 margin-top: 0.35rem;
+width: 100%;
+}
+
+.recipe-step-timer {
+display: inline-flex;
+flex-wrap: wrap;
+align-items: center;
+gap: 0.35rem 0.45rem;
+margin-left: 0.3rem;
+}
+
+.recipe-step-timer.is-running {
+color: #20346c;
+}
+
+.recipe-step-timer-launch {
+display: inline-flex;
+align-items: center;
+justify-content: center;
+width: 7.5rem;
+padding: 0.28rem 0.72rem;
+border-radius: 999px;
+font-size: 0.75rem;
+font-weight: 700;
+border: 1px solid rgba(32, 52, 108, 0.2);
+background: #fffdf8;
+color: #20346c;
+box-shadow: none;
+transition: border-color 0.15s ease, background-color 0.15s ease, color 0.15s ease;
+}
+
+.recipe-step-timer-launch:hover {
+background: #f5f7fb;
+border-color: rgba(32, 52, 108, 0.32);
+color: #182856;
+}
+
+.recipe-step-timer.is-open .recipe-step-timer-launch {
+background: #eef3ff;
+border-color: rgba(32, 52, 108, 0.35);
+color: #20346c;
+}
+
+.recipe-step-timer-display {
+font-size: 1.05rem;
+font-weight: 700;
+line-height: 1;
+color: #20346c;
+font-variant-numeric: tabular-nums;
+}
+
+.recipe-step-timer-status {
+font-size: 0.78rem;
+color: rgba(17, 17, 17, 0.72);
+}
+
+.recipe-step-timer-panel {
+display: inline-flex;
+flex-wrap: wrap;
+align-items: flex-start;
+gap: 0.55rem;
+padding: 0.55rem 0.7rem;
+border: 1px solid rgba(32, 52, 108, 0.16);
+border-radius: 1rem;
+background: #fffefb;
+box-shadow: none;
+}
+
+.recipe-step-timer-summary {
+display: inline-flex;
+flex-wrap: wrap;
+align-items: center;
+justify-content: space-between;
+gap: 0.35rem 0.8rem;
+width: 100%;
+}
+
+.recipe-step-timer.is-running .recipe-step-timer-panel {
+border-color: rgba(32, 52, 108, 0.32);
+background: #f7faff;
+}
+
+.recipe-step-timer-actions {
+display: inline-flex;
+flex-wrap: wrap;
+gap: 0.35rem;
+width: 100%;
+}
+
+.recipe-step-timer-actions .btn {
+padding: 0.18rem 0.55rem;
+border-radius: 999px;
+font-size: 0.75rem;
+font-weight: 600;
+box-shadow: none;
+border-width: 1px;
 }
 
 .recipe-content strong {
@@ -223,6 +330,16 @@ font-size: 1.1rem;
 
 .recipe-hero img {
 max-height: 220px;
+}
+
+.recipe-step-timer,
+.recipe-step-timer-panel {
+width: 100%;
+margin-left: 0;
+}
+
+.recipe-step-timer-summary {
+justify-content: flex-start;
 }
 }
 
