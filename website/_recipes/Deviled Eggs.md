@@ -4,11 +4,8 @@ aliases:
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Vegetarian
-  - Egg
   - Party
   - Picnic
-  - Make-Ahead
 recipe-type: Side
 thumbnail: /assets/images/deviled-eggs.webp
 ---

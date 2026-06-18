@@ -4,8 +4,6 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Pork
-  - Dinner
   - Winter
   - Quebecois
 recipe-type: Main

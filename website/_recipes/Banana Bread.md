@@ -4,9 +4,7 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Vegetarian
   - Snack
-  - Make-Ahead
   - Freezer-Friendly
 recipe-type: Baked Good
 thumbnail: /assets/images/banana-bread.jpg

@@ -4,9 +4,6 @@ aliases:
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Vegetarian
-  - Make-Ahead
-  - Freezer-Friendly
 recipe-type: Baked Good
 thumbnail: /assets/images/bread.webp
 ---

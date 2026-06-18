@@ -4,9 +4,6 @@ aliases:
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Make-Ahead
-  - Smoky
-  - Spicy
 recipe-type: Preserving
 thumbnail: /assets/images/barbecue-sauce.webp
 ---

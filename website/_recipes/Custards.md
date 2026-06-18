@@ -4,8 +4,6 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Make-Ahead
-  - Dessert
 recipe-type: Dessert
 thumbnail: /assets/images/custards.webp
 ---

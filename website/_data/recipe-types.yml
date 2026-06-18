@@ -6,84 +6,43 @@ types:
   - id: breakfast
     label: Breakfast
     description: Breakfast-first dishes that are primarily intended for the first meal of the day.
-    examples:
-      - Overnight Breakfast
-      - Poutine Breakfast
 
   - id: baked-good
     label: Baked Good
     description: Breads, muffins, scones, bars, and similar baked items that are not primarily plated desserts.
-    examples:
-      - Banana Bread
-      - Bread
-      - Savory Scones
 
   - id: condiment
     label: Condiment
     description: Sauces, dressings, marinades, and flavor-building components served with other dishes.
-    examples:
-      - Dragon Sauce
-      - Wafu Dressing
-      - Marinades
 
   - id: dessert
     label: Dessert
     description: Sweet dishes, plated desserts, frozen desserts, and dessert-focused fillings or toppings.
-    examples:
-      - Ambrosia Salad
-      - Ninja Creami
-      - Chocolate Ganache
 
   - id: drink
     label: Drink
     description: Drinkable preparations, tonics, or spoonable frozen treats treated primarily as beverages.
-    examples:
-      - Fire Cider
 
   - id: main
     label: Main
     description: Full meals or center-of-plate dishes substantial enough to anchor a meal.
-    examples:
-      - General Tao Tofu
-      - Haitian Pork Griot
-      - Traditional Taiwanese Braised Pork Hock
 
-  - id: preserve
-    label: Preserve
+  - id: preserving
+    label: Preserving
     description: Ferments, cures, and other recipes whose main purpose is preservation or long storage.
-    examples:
-      - Fermented Cabbage
-      - Fermented style Pikliz Haitian
-      - Cured Salmon
 
   - id: salad
     label: Salad
     description: Composed salads, grain salads, and bowl-style cold assemblies where the salad format defines the dish.
-    examples:
-      - Quinoa Salad
-      - High Protein Vegan Lentil Salad
-      - Potato and Egg Salad Recipe
 
   - id: side
     label: Side
     description: Sides, accompaniments, and smaller supporting dishes served alongside a main dish.
-    examples:
-      - Caramelized Onions
-      - Deviled Eggs
-      - Potato Cabbage Fritter
 
   - id: snack
     label: Snack
     description: Portable, shareable, or between-meal foods that are lighter than a main dish.
-    examples:
-      - Onigiri
-      - Nut Bar
-      - Okonomiyaki
 
   - id: soup
     label: Soup
     description: Soups, stews, chowders, ramen-style broths, and other spoonable savory bowls.
-    examples:
-      - Beef Chuck Stew
-      - Chowder
-      - Red Lentil Soup

@@ -5,10 +5,6 @@ type: cooking-recipe
 status: 🟧
 source: Alton Brown Cooks Food Episode 24 The Dip's The Thing
 recipe-tags:
-  - Vegetarian
-  - Make-Ahead
-  - Freezer-Friendly
-  - Umami
 recipe-type: Side
 ---
 # Caramelized Onions
@@ -34,6 +30,5 @@ recipe-type: Side
 10. Cook for another 20 minutes
 11. Remove from heat and add
     - pinch of black pepper
-
 
 ## Notes

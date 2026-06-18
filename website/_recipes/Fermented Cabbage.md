@@ -4,11 +4,8 @@ aliases:
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Vegan
   - Fermented
-  - Make-Ahead
-  - Winter
-recipe-type: Preserve
+recipe-type: Preserving
 thumbnail: /assets/images/fermented-cabbage.webp
 ---
 # Fermented Cabbage

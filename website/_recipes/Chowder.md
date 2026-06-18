@@ -5,8 +5,6 @@ type: cooking-recipe
 status: 🟧
 recipe-tags:
   - Winter
-  - Comfort Food
-  - Dinner
   - One-Pot
 recipe-type: Soup
 thumbnail: /assets/images/chowder.webp

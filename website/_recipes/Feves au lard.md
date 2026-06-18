@@ -6,10 +6,6 @@ type: cooking-recipe
 status: 🟩️
 recipe-tags:
   - Quebecois
-  - Pork
-  - Brunch
-  - Make-Ahead
-  - Comfort Food
   - Winter
 recipe-type: Breakfast
 thumbnail: /assets/images/feves-au-lard.webp

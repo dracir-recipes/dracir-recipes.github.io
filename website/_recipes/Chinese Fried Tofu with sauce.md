@@ -5,10 +5,6 @@ type: cooking-recipe
 status: 🟥
 recipe-tags:
   - Chinese
-  - Tofu
-  - Dinner
-  - Umami
-  - Quick
 recipe-type: Main
 thumbnail: /assets/images/chinese-fried-tofu.webp
 ---

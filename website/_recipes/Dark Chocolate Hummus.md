@@ -4,10 +4,6 @@ aliases:
 type: cooking-recipe
 status: 🟥
 recipe-tags:
-  - Vegan
-  - High-Protein
-  - Chocolate
-  - No-Bake
 recipe-type: Dessert
 thumbnail: /assets/images/chocolate-hummus.webp
 ---

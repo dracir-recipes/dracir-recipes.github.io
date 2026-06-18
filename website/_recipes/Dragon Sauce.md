@@ -4,10 +4,6 @@ aliases:
 type: cooking-recipe
 status: 🟨
 recipe-tags:
-  - Vegan
-  - Quick
-  - Spicy
-  - Umami
 recipe-type: Condiment
 thumbnail: /assets/images/dragon-sauce.webp
 ---

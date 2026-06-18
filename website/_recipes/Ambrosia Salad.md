@@ -4,11 +4,8 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Vegetarian
-  - Summer
-  - Fresh
+  - Cold
   - Party
-  - Potluck
   - No-Bake
 recipe-type: Dessert
 thumbnail: /assets/images/ambrosia-salad.webp

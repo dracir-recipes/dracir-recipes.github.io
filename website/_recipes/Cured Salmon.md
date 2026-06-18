@@ -4,10 +4,8 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Seafood
-  - Make-Ahead
   - Picnic
-recipe-type: Preserve
+recipe-type: Preserving
 thumbnail: /assets/images/cured-salmon.webp
 ---
 # Cured Salmon

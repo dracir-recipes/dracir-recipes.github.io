@@ -4,10 +4,6 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Vegetarian
-  - Chocolate
-  - Make-Ahead
-  - No-Bake
 recipe-type: Condiment
 thumbnail: /assets/images/chocolate-ganache.webp
 ---

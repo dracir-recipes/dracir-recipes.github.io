@@ -5,10 +5,6 @@ type: cooking-recipe
 status: 🟥
 recipe-tags:
   - Mediterranean
-  - Vegan
-  - High-Protein
-  - Meal Prep
-  - Make-Ahead
 recipe-type: Main
 thumbnail: /assets/images/chickpea-couscous-meatballs.webp
 ---

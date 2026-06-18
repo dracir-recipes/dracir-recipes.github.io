@@ -4,10 +4,6 @@ aliases:
 type: cooking-recipe
 status: 🟧
 recipe-tags:
-  - Vegetarian
-  - Chocolate
-  - Gluten-Free
-  - High-Protein
 recipe-type: Dessert
 thumbnail: /assets/images/black-beans-chocolate-cake.webp
 ---
