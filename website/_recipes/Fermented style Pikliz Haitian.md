@@ -14,10 +14,10 @@ thumbnail: /assets/images/fermented-style-pikliz.webp
 ## Recipe
 
 - **2 cups shredded cabbage**
-- **1 cup (1 large) carrot, shredded**
+- **1 cup (1 large) carrot** *shredded*
 - **1 red onion**
 - **1 cup (1 large) bell pepper (green, orange, red)**
-- **2 Scotch bonnet or habanero chili peppers, hulled and seeded (use gloves when handling)**
+- **2 Scotch bonnet or habanero chili peppers** *hulled and seeded (use gloves when handling)*
 - **Zest and juice of a whole lime**
 - **3 cloves of garlic**
 - **1.5 tablespoons dried thyme**

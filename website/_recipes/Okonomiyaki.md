@@ -15,12 +15,12 @@ thumbnail: /assets/images/okonomiyaki.webp
 ## Recipe
 
 1. In a large bowl, mix vegetables and proteins:
-	- **2 cups Cabbage, shredded**
-	- **¼ cup Onion, diced**
-	- **2 cloves Garlic, minced**
-	- **1 tbsp Ginger, grated**
+	- **2 cups Cabbage** *shredded*
+	- **¼ cup Onion** *diced*
+	- **2 cloves Garlic** *minced*
+	- **1 tbsp Ginger** *grated*
 	- **1 cup mixed Vegetables (Carrot, Mushrooms)**
-	- **1 cup Bacon, cut into pieces**
+	- **1 cup Bacon** *cut into pieces*
 
 2. Add binding ingredients:
 	- **2 Eggs**
@@ -43,7 +43,7 @@ Serve hot topped with:
 - **Okonomiyaki Sauce**
 - **Katsuobushi (bonito flakes)**
 - **Aonori (seaweed flakes)**
-- **Scallions, chopped**
+- **Scallions** *chopped*
 
 ## Notes
 

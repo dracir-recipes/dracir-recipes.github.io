@@ -15,9 +15,9 @@ thumbnail: /assets/images/fire-cider.webp
 ## Recipe
 
 1. In a 1L jar place :
-   - 4 inch, fresh ginger knob, coarsely chopped
-   - 1 small onion, coarsely chopped
-   - 10 medium cloves farlic, coarsely chopped
+   - **4 inch** *fresh ginger knob, coarsely chopped*
+   - **1 small onion** *coarsely chopped*
+   - **10 medium cloves farlic** *coarsely chopped*
    - 1 Tbsp. organic turmeric powder
    - 3-inch cinamon stick
    - Zest and juice from 1 organic lemon

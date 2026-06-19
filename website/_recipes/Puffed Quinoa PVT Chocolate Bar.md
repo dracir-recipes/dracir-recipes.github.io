@@ -23,7 +23,7 @@ thumbnail: /assets/images/puffed-quinoa-pvt-chocolate-bar.webp
 2. Add
 	- 2 tbsp flax seed
 	- 1 teaspoon ground cinnamon
-	- 1 1/2 cups Puffed Quinoa, toasted
+	- **1 1/2 cups Puffed Quinoa** *toasted*
 	- 1/4 cup Hemp Seeds
 	- 3/4 cup Peanut Butter
 	- 1/4 cup Honey

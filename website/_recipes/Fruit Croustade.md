@@ -19,7 +19,7 @@ thumbnail: /assets/images/croustade.webp
 ### A. Fruit Base
 
 1. In the bottom of a greased 9x13 pan, combine:
-	- **4 cups Mixed Fall Fruits, cut (apples, pears, cranberries)**
+	- **4 cups Mixed Fall Fruits** *cut (apples, pears, cranberries)*
 	- **1 tbsp All-Purpose Flour** (if using juicy fruits)
 	- **1 tbsp Lemon Juice**
 
@@ -28,13 +28,13 @@ thumbnail: /assets/images/croustade.webp
 1. In a bowl, mix dry ingredients:
 	- **2 cups Oats**
 	- **1 cup All-Purpose Flour**
-	- **½ cup Light Brown Sugar, packed**
+	- **½ cup Light Brown Sugar** *packed*
 	- **1 tsp Ground Cinnamon**
 	- **½ tsp Salt**
 	- **¼ tsp Baking Powder**
 
 2. Add and mix until crumbly:
-	- **¾ cup (180g) Unsalted Butter, melted**
+	- **¾ cup (180g) Unsalted Butter** *melted*
 
 3. Sprinkle crumble over fruit and bake at 350°F (175°C) for 40 minutes until golden.
 

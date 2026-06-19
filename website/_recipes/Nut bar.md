@@ -19,7 +19,7 @@ thumbnail: /assets/images/nut-bar.webp
 ### A. Basic Method
 
 1. In a food processor, blend until sticky paste forms:
-	- **900g Dates, pitted**
+	- **900g Dates** *pitted*
 	- **90g Nut Butter of choice**
 	- **Flavorings (see variations below)**
 
@@ -34,7 +34,7 @@ thumbnail: /assets/images/nut-bar.webp
 ### Nutella-Style Bars
 
 - **3 tbsp Carob Powder**
-- **½ cup Hazelnuts, ground**
+- **½ cup Hazelnuts** *ground*
 
 ### Chocolate-Peanut Butter (Reese's Style)
 
@@ -44,7 +44,7 @@ thumbnail: /assets/images/nut-bar.webp
 ### Citrus-Almond
 
 - **Zest and juice of 2.5 Lemons**
-- **¾ cup Almonds, ground**
+- **¾ cup Almonds** *ground*
 
 ## Tips
 

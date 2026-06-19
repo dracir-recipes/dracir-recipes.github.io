@@ -14,14 +14,14 @@ thumbnail: /assets/images/chocolate-custard.webp
 
 ## Recipe
 
-1. In a stainless steel bowl, vigorously whisk until volume doubled : 
-	- **1 Egg yolk ( for a Lighter sauce the whites can be added )**
-	- **1/2 tsp Corn Starch**
-2. In a Bain-marie, continue to whisk while adding : 
-	- **1/8 cup Chocolate, melted**
-	- **1/8 cup Milk, whole**
-3. (option) For a lighter version, add in : 
-	- **1/8 cup Yogurt**
+1. In a stainless steel bowl, vigorously whisk until volume doubled:
+	- 1 **Egg yolk** ( for a Lighter sauce the whites can be added )
+	- ½ tsp **Corn Starch**
+2. In a Bain-marie, continue to whisk while adding:
+	- 2 tbsp **Chocolate**, *melted*
+	- 2 tbsp **Milk**, *whole*
+3. (option) For a lighter version, add in:
+	- 2 tbsp **Yogurt**
 
 ## Notes
 

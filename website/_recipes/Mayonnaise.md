@@ -15,7 +15,7 @@ thumbnail: /assets/images/mayonnaise.webp
 ## Recipe
 
 1. In a bowl or jar, whisk
-   - 1 egg, room temperature
+   - **1 egg** *room temperature*
    - 1 ¼ cup neutral oil
    - 1 teaspoon lemon juice
    - 2 teaspoon white vinegar

@@ -19,7 +19,7 @@ thumbnail: /assets/images/chocolate-hummus.webp
 	- **¼ cup Cocoa Powder**
 
 2. Add wet ingredients and legumes:
-	- **1.5 cups Black Beans, cooked and drained**
+	- **1.5 cups Black Beans** *cooked and drained*
 	- **¼ cup liquid sweetener (Maple Syrup or Agave)**
 	- **2 tbsp Peanut Butter**
 	- **1 tsp Vanilla Extract**

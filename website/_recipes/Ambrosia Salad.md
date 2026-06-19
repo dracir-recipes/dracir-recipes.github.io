@@ -16,11 +16,11 @@ thumbnail: /assets/images/ambrosia-salad.webp
 ## Recipe
 
 1. In a large bowl, combine:
-	- 4 cup **tropical fruits** , drained
-	- 1 cup **cherry**, halved
-	- 2 cup **sour cream** or **Greek yogurt**
-	- 2 cup **miniature marshmallows** fruit flavored or white
-	- ? 1 cup **shredded coconut** ?
+	- 4 cup **Tropical Fruits**, *drained*
+	- 1 cup **Cherries**, *halved*
+	- 2 cup **Sour cream** or **Greek yogurt**
+	- 2 cup **Miniature marshmallows**, *fruit flavored or white*
+	- ? 1 cup **Shredded coconut** ?
 2. Mix well and refrigerate for at least 1 hour before serving.
 
 ## Notes

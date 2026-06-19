@@ -25,7 +25,7 @@ thumbnail: /assets/images/onigiri.webp
 ### A. Rice
 
 1. In a rice cooker, cook:
-	- **2 cups Short Grain Rice, uncooked**
+	- **2 cups Short Grain Rice** *uncooked*
 	- **2½ cups Water** 
 
 ### B. Salted Salmon Filling
@@ -39,14 +39,14 @@ thumbnail: /assets/images/onigiri.webp
 ### C. Tuna Filling
 
 1. Combine:
-	- **¾ cup Canned Tuna, drained**
+	- **¾ cup Canned Tuna** *drained*
 	- **2 tbsp Kewpie Mayonnaise**
 	- **½ tbsp Soy Sauce** 
 
 ### D. Assembly Method - To Eat Right Away
 
 1. Cut nori sheets:
-	- **4 sheets Nori, cut into thirds**
+	- **4 sheets Nori** *cut into thirds*
 
 2. Prepare your hands by wetting them to prevent rice from sticking.
 

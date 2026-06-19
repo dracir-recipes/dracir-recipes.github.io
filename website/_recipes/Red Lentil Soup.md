@@ -16,15 +16,15 @@ thumbnail: /assets/images/red-lentil-soup.webp
 
 1. In a large pot, brown :
 	- **1 tbsp cooking oil or butter**
-	- **1 Onion, chopped**
-	- **4 Garlic cloves, finely chopped**
+	- **1 Onion** *chopped*
+	- **4 Garlic cloves** *finely chopped*
 2. Add and Cook until fragrant : 
 	- **2 tbsp Curry Powder $^1$**
 	- **Salt & Pepper**
 	- **Pinch Cayenne Pepper or grounded Hot Pepper**
-	- **2 tbsp Ginger, grated**
+	- **2 tbsp Ginger** *grated*
 3. Add, then bring to boil : 
-	- **2 cups Red Lentils, soaked a few hours**
+	- **2 cups Red Lentils** *soaked a few hours*
 	- **3 cups Water**
 	- **0 to 2 cups of chopped vegetables : Carrot,**
 	- **1 cup Full Fat Coconut Milk**
@@ -48,8 +48,8 @@ thumbnail: /assets/images/red-lentil-soup.webp
 ## Notes
 
 1. Curry Powder recipe : 
-	- 1 tsp each coriander, turmeric, grounded ginger, dry mustard, 
-	- 1/2 tsp each cinnamon, cardamom
+	- **1 tsp each coriander** *turmeric, grounded ginger, dry mustard,*
+	- **1/2 tsp each cinnamon** *cardamom*
 
 ## Experimentations
 
@@ -61,5 +61,5 @@ thumbnail: /assets/images/red-lentil-soup.webp
 2. Try cook lentile separate, blend 2/3 and a keep 1/3 full , mix in, to make more creamy. 
 3. currey powder :
 	- 2 tsp each : turmeric,
- 	- 1 tsp each : 	cinnamon,  dry mustard, salt, peper
+ 	- **1 tsp each : 	cinnamon** *dry mustard, salt, peper*
 

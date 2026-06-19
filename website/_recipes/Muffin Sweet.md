@@ -22,7 +22,7 @@ thumbnail: /assets/images/sweet-muffins.webp
    - ½ teaspoon salt
    - 1 teaspoon cinnamon
 3. In another bowl, whisk together:
-   - 3 eggs, preferably at room temperature
+   - **3 eggs** *preferably at room temperature*
    - 4 bananas (1 cup)
    - 1/2 cup milk
    - 1/2 cup extra-virgin olive oil*
@@ -43,7 +43,7 @@ Crumb Topping:
 
 - 1/4 cup brown sugar
 - ⅓ cup all-purpose flour
-- ¼ cup butter, cubed
+- **¼ cup butter** *cubed*
 - 1 ½ teaspoons ground cinnamon
 
 ## Notes

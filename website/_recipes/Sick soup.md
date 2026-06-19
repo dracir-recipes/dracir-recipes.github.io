@@ -19,14 +19,14 @@ thumbnail: /assets/images/sick-soup.webp
 
 1. In a large pot, sauté aromatics:
 	- **1 tbsp Olive Oil**
-	- **1 Onion, diced**
-	- **2 Carrots, diced**
-	- **2 stalks Celery, diced**
-	- **4 cloves Garlic, minced** (antibacterial properties)
-	- **1 inch Fresh Ginger, grated** (anti-nausea)
+	- **1 Onion** *diced*
+	- **2 Carrots** *diced*
+	- **2 stalks Celery** *diced*
+	- **4 cloves Garlic** *minced* (antibacterial properties)
+	- **1 inch Fresh Ginger** *grated* (anti-nausea)
 
 2. Add protein and liquid:
-	- **1 lb Chicken, diced** (provides cysteine amino acid)
+	- **1 lb Chicken** *diced* (provides cysteine amino acid)
 	- **6 cups Bone Broth** (collagen for recovery)
 	- **2 cups Water**
 

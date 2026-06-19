@@ -15,10 +15,10 @@ thumbnail: /assets/images/chocolate-ganache.webp
 ## Recipe
 
 1. Place chopped chocolate in a medium bowl:
-	- **6 oz (170g) Semi-Sweet Chocolate, finely chopped**
+	- 170g **Semi-Sweet Chocolate**, *finely chopped*
 
 2. Heat cream in a small saucepan until it begins to simmer (do not let it boil rapidly):
-	- **¾ cup (180ml) Heavy Cream**
+	- ¾ cup **Heavy Cream**
 
 3. Pour hot cream over chocolate and let sit for 2-3 minutes to gently soften the chocolate.
 
@@ -27,4 +27,3 @@ thumbnail: /assets/images/chocolate-ganache.webp
 5. Refrigerate uncovered for 30 minutes to 1 hour until thickened to desired consistency.
 
 ## Notes
-

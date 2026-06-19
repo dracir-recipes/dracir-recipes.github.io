@@ -18,13 +18,13 @@ Porcupine Meatballs - Quebec-style meatballs with rice that resembles porcupine 
 ### A. Meatballs
 
 1. In a mixing bowl, combine:
-	- **1½ lbs Ground Pork**
-	- **½ cup Long-Grain Rice, soaked in water for 30 minutes and drained**
-	- **1 Onion, finely chopped**
-	- **1 Carrot, finely chopped**
-	- **1 clove Garlic, minced**
-	- **1 tsp Salt**
-	- **¼ tsp Black Pepper**
+	- 1½ lbs **Ground Pork**
+	- ½ cup **Long-Grain Rice**, *soaked in water for 30 minutes and drained*
+	- 1 **Onion**, *finely chopped*
+	- 1 **Carrot**, *finely chopped*
+	- 1 **Clove Garlic**, *minced*
+	- 1 tsp **Salt**
+	- ¼ tsp **Black Pepper**
 	- **Few drops Hot Sauce** (optional)
 	- **½ tsp Thyme**
 	- **½ tsp Basil**
@@ -34,12 +34,12 @@ Porcupine Meatballs - Quebec-style meatballs with rice that resembles porcupine 
 ### B. Tomato Sauce
 
 1. In a mixing bowl, whisk together:
-	- **1L Tomato Juice**
-	- **1 tbsp Brown Sugar**
-	- **1 tbsp Corn Starch**
-	- **1 tsp Salt**
-	- **¼ tsp Black Pepper**
-	- **¼ tsp Crushed Red Pepper Flakes**
+	- 1 liter **Tomato Juice**
+	- 1 tbsp **Brown Sugar**
+	- 1 tbsp **Corn Starch**
+	- 1 tsp **Salt**
+	- ¼ tsp **Black Pepper**
+	- ¼ tsp **Crushed Red Pepper Flakes**
 
 2. Pour sauce over meatballs.
 

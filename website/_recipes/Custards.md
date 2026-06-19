@@ -24,7 +24,7 @@ thumbnail: /assets/images/custards.webp
 	- **2 tbsp Cornstarch**
 
 2. Gradually whisk in:
-	- **2 cups Whole Milk, warmed**
+	- **2 cups Whole Milk** *warmed*
 
 3. Cook in a double boiler, stirring constantly, until mixture coats the back of a spoon (about 8-10 minutes).
 

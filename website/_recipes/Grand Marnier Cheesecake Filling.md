@@ -16,7 +16,7 @@ thumbnail: /assets/images/grand-marnier-cheesecake-filling.webp
 *Rich, creamy cheesecake filling with orange liqueur*
 
 1. In a bain-marie (double boiler), gently melt and combine:
-	- **1 cup Cream Cheese, softened**
+	- **1 cup Cream Cheese** *softened*
 	- **45g White Chocolate**
 
 2. Remove from heat and let cool slightly.

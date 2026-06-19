@@ -43,7 +43,7 @@ thumbnail: /assets/images/ramen.webp
 
 2. Top with:
 	- **Fresh Cilantro**
-	- **Fresh Ginger, grated**
+	- **Fresh Ginger** *grated*
 	- **Sesame Seeds**
 	- **Sauerkraut**
 	- **Pickled Vegetables**

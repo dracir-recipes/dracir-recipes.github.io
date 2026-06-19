@@ -33,8 +33,8 @@ thumbnail: /assets/images/vege-pate.webp
 ### B. Wet Ingredients
 
 1. Steam until tender:
-	- **1 Potato, peeled and chopped**
-	- **1 large Carrot, peeled and sliced**
+	- **1 Potato** *peeled and chopped*
+	- **1 large Carrot** *peeled and sliced*
 
 2. Add to food processor with:
 	- **Cooked vegetables**

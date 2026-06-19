@@ -21,13 +21,13 @@ thumbnail: /assets/images/general-tao-tofu.webp
 	- **1 tsp Bouillon Powder**
 	- **1 tsp Hot Sauce or Chili Flakes**
 	- **1 tsp Turmeric**
-	- **½ tsp Sichuan Peppercorns, ground**
+	- **½ tsp Sichuan Peppercorns** *ground*
 	- **2 tbsp Honey or Maple Syrup**
 	- **½ tsp Liquid Smoke**
 	- **Salt and Black Pepper to taste**
 
 2. Prepare tofu:
-	- **1 block (300g) Firm Tofu, cubed or hand-torn into irregular pieces**
+	- **1 block (300g) Firm Tofu** *cubed or hand-torn into irregular pieces*
 
 3. Marinate tofu in the mixture for 30 minutes.
 

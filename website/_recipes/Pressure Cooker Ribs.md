@@ -17,7 +17,7 @@ thumbnail: /assets/images/pressure-cooker-ribs.webp
 ### A. Pressure Cook Ribs
 
 1. In a pressure cooker, cook on high pressure for 25-30 minutes:
-	- 1½ lbs Pork Ribs, membrane removed
+	- **1½ lbs Pork Ribs** *membrane removed*
 	- cover with water
 
 2. Natural pressure release
@@ -32,7 +32,7 @@ thumbnail: /assets/images/pressure-cooker-ribs.webp
 
 4. Stir in and simmer 6-8 minutes until syrup consistency:
 	- **3 tbsp Dijon Mustard**
-	- **3 tbsp Brown Sugar, packed**
+	- **3 tbsp Brown Sugar** *packed*
 
 ### C. Finish Under Broiler
 

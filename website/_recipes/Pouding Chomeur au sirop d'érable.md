@@ -22,7 +22,7 @@ thumbnail: /assets/images/pouding-chomeur-au-sirop-d-erable.webp
 	- **2 c. à thé de poudre à pâte**
 	- **1/4 c. à thé de sel**
 3. Dans un autre bol, crémer  
-	- **1/2 tasse de beurre non salé, ramolli**
+	- **1/2 tasse de beurre non salé** *ramolli*
 	- **1/4 tasse de cassonade**
 4. Ajouter un à la fois :
 	- **2 oeufs**

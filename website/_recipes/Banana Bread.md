@@ -19,15 +19,15 @@ thumbnail: /assets/images/banana-bread.jpg
 1. Preheat oven to 350°F (175°C). Grease a 9x5 inch loaf pan.
 
 2. In a large bowl, combine dry ingredients:
-	- **1 cup All-Purpose Flour**
-	- **1 cup Oats**
-	- **1 tsp Baking Soda**
+	- 1 cup **All-Purpose Flour**
+	- 1 cup **Oats**
+	- 1 tsp **Baking Soda**
 	- **Pinch Salt**
 
 3. In another bowl, mash and mix wet ingredients:
-	- **6 ripe Bananas, mashed**
-	- **2 Eggs, beaten**
-	- **¼ cup Oil**
+	- 6 **Bananas**, *ripe, mashed*
+	- 2 **Eggs**, *beaten*
+	- ¼ cup **Oil**
 
 4. Pour wet ingredients into dry ingredients and stir until just combined. Do not overmix.
 

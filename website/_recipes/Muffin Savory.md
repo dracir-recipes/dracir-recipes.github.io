@@ -24,8 +24,8 @@ thumbnail: /assets/images/savory-muffins.webp
 3. In another bowl, whisk together:
    - 1/3 cup extra-virgin olive oil
    - 1/3 cup milk
-   - 3 eggs, preferably at room temperature
-   - (about 2 cup) semi-hard cheese, such as Gouda or Fontina, grated
+   - **3 eggs** *preferably at room temperature*
+   - **(about 2 cup) semi-hard cheese** *such as Gouda or Fontina, grated*
 4. Pour the wet ingredients into the dry ingredients and mix until just combined.
 5. Bake for 20-25 minutes, or until a toothpick inserted into the center comes out clean.
 6. Let the muffins cool in the tin for 5 minutes, then transfer to a wire rack to cool completely.
@@ -39,9 +39,9 @@ thumbnail: /assets/images/savory-muffins.webp
 - ½ teaspoon garlic powder
 - ½ teaspoon onion powder
 - 1/4 cup extra-virgin olive oil
-- 2 eggs, preferably at room temperature
-- 3 cups chopped vegetables broccoli, spinach etc.
+- **2 eggs** *preferably at room temperature*
+- **3 cups chopped vegetables broccoli** *spinach etc.*
 - 1 cup yagourt
-- (about 1 cup) semi-hard cheese, such as Gouda or Fontina, grated
+- **(about 1 cup) semi-hard cheese** *such as Gouda or Fontina, grated*
 
 ## Notes

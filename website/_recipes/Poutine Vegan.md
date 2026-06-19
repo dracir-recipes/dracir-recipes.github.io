@@ -28,11 +28,11 @@ thumbnail: /assets/images/poutine-vegan.webp
 ### B. Roast Vegetables
 
 1. Preheat oven to 425°F. Toss and roast for 25-30 minutes:
-	- **2 Yukon Gold Potatoes, cubed**
-	- **1 Sweet Potato, cubed**
-	- **1 Eggplant, cubed**
-	- **8 oz Mushrooms, sliced**
-	- **1 Onion, sliced**
+	- **2 Yukon Gold Potatoes** *cubed*
+	- **1 Sweet Potato** *cubed*
+	- **1 Eggplant** *cubed*
+	- **8 oz Mushrooms** *sliced*
+	- **1 Onion** *sliced*
 	- **2 tbsp Olive Oil**
 	- **Salt and Black Pepper**
 

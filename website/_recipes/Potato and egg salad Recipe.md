@@ -16,14 +16,14 @@ thumbnail: /assets/images/potato-egg-salad.webp
 ### A. Base Ingredients
 
 1. Cook and prepare base:
-	- **4 cups Yukon Gold Potatoes or Baby Potatoes, boiled and cubed**
-	- **4 Eggs, soft-boiled and halved**
-	- **2 stalks Celery, diced**
+	- **4 cups Yukon Gold Potatoes or Baby Potatoes** *boiled and cubed*
+	- **4 Eggs** *soft-boiled and halved*
+	- **2 stalks Celery** *diced*
 
 2. Add colorful vegetables:
-	- **1 cup Celeriac, grated**
-	- **1 cup Carrots, grated**
-	- **1 French Shallot, diced**
+	- **1 cup Celeriac** *grated*
+	- **1 cup Carrots** *grated*
+	- **1 French Shallot** *diced*
 	- **1 cup Peas** (fresh or blanched frozen)
 
 ### B. Dressing Options

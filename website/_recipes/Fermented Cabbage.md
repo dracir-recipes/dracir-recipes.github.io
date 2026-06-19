@@ -14,9 +14,9 @@ thumbnail: /assets/images/fermented-cabbage.webp
 ## Base Recipe
 
 1. Mix
-	- 6 cup cabbage, shredded
-	- 2 cup carrots and radish, sticks
-	- 5 green onion, chopped
+	- **6 cup cabbage** *shredded*
+	- **2 cup carrots and radish** *sticks*
+	- **5 green onion** *chopped*
 	- 1/4 cup garlic and ginger
 	- 1/2 cup shiitake
 	- 2.2% weight in salt
@@ -25,9 +25,9 @@ thumbnail: /assets/images/fermented-cabbage.webp
 ## Kimchi inspired
 
 1. Mix
-	- 6 cup cabbage, shredded
-	- 2 cup carrots and radish, sticks
-	- 5 green onion, chopped
+	- **6 cup cabbage** *shredded*
+	- **2 cup carrots and radish** *sticks*
+	- **5 green onion** *chopped*
 	- 1/4 cup garlic and ginger
 	- 2.2% weight in salt
 2. Hand mix until enough liquid is extracted

@@ -18,7 +18,7 @@ thumbnail: /assets/images/raw-seeds-cheese.webp
 
 1. In a food processor, combine:
 	- **1 cup Hemp Seeds**
-	- **1 cup Sunflower Seeds, soaked 10 minutes in hot water and drained**
+	- **1 cup Sunflower Seeds** *soaked 10 minutes in hot water and drained*
 	- **½ cup Cashews** (optional for creaminess)
 	- **⅓ cup Nutritional Yeast**
 	- **2 tbsp Liquid Aminos or Tamari**
@@ -37,7 +37,7 @@ Add to base:
 
 Add to base:
 - **2 tbsp mixed fresh Herbs (Chives, Dill, Parsley)**
-- **2 tbsp Onion Powder or 1 small Shallot, minced**
+- **2 tbsp Onion Powder or 1 small Shallot** *minced*
 
 ## Storage
 

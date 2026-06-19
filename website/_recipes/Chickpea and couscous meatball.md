@@ -18,13 +18,13 @@ thumbnail: /assets/images/chickpea-couscous-meatballs.webp
 1. Preheat oven to 400°F (200°C).
 
 2. In a food processor or blender, pulse to combine:
-	- **2 cups Couscous, cooked and cooled**
-	- **2 cups Chickpeas, cooked**
-	- **½ Red Onion, roughly chopped**
-	- **2 cloves Garlic**
-	- **2 tbsp Paprika**
-	- **2 tbsp Soy Sauce**
-	- **Salt and Black Pepper to taste**
+	- 2 cups **Couscous**, *cooked and cooled*
+	- 2 cups **Chickpeas**, *cooked*
+	- ½ **Red Onion**, *roughly chopped*
+	- 2 cloves **Garlic**
+	- 2 tbsp **Paprika**
+	- 2 tbsp **Soy Sauce**
+	- **Salt and Black Pepper**
 
 3. Pulse until mixture holds together but still has some texture. Do not over-process into a paste.
 

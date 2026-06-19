@@ -26,7 +26,7 @@ thumbnail: /assets/images/salad-dressings.webp
 
 1. In a bowl, with a hand mixer, mix :
 	- **1 cup mayonnaise**
-	- **1/4 cup yellow onion, minced**
+	- **1/4 cup yellow onion** *minced*
 	- **2 tablespoons ketchup**
 	- **2 tablespoons sweet pickle relish**
 	- **1 teaspoon lemon juice**
@@ -36,10 +36,10 @@ thumbnail: /assets/images/salad-dressings.webp
 ## Creamy Greek Yogurt Dressing
 
 1. In a bowl, with a hand mixer, mix :
-	- **2 tablespoons fresh lemon juice, from one lemon**
+	- **2 tablespoons fresh lemon juice** *from one lemon*
 	- **1 tablespoon white wine vinegar**
 	- **1½ teaspoons honey**
-	- **1 teaspoon minced garlic, from 1 to 2 cloves**
+	- **1 teaspoon minced garlic** *from 1 to 2 cloves*
 	- **½ cup plain whole milk Greek yogurt**
 	- **⅓ cup extra virgin olive oil**
 	- **½ teaspoon salt**
@@ -65,7 +65,7 @@ thumbnail: /assets/images/salad-dressings.webp
 1. In a bowl, with a hand mixer, mix :
 	- **2 egg yolks**
 	- **¾ cup extra virgin olive oil**
-	- **4 anchovies, chopped**
+	- **4 anchovies** *chopped*
 	- **½ tablespoon dijon mustard**
 	- **1 tablespoon worcestershire sauce**
 	- **2 cloves garlic minced**

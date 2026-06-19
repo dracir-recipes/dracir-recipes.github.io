@@ -19,7 +19,7 @@ thumbnail: /assets/images/vegetable-potage.webp
 1. Heat oil in a large pot and sauté vegetables until lightly browned:
 	- **2 tbsp Olive Oil**
 	- **4 cups mixed Vegetables (onions, carrots, leeks, etc.)**
-	- **1 large Potato, cubed**
+	- **1 large Potato** *cubed*
 
 2. Add seasonings:
 	- **Salt and Black Pepper to taste**

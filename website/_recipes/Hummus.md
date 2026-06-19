@@ -15,7 +15,7 @@ thumbnail: /assets/images/hummus.webp
 
 1. In a food processor, combine:
 	- **1 tsp Salt**
-	- **2 cups Chickpeas, cooked and drained**
+	- **2 cups Chickpeas** *cooked and drained*
 	- **¼ cup Olive Oil**
 	- **2 tbsp Lemon Juice**
 

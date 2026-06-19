@@ -19,25 +19,25 @@ thumbnail: /assets/images/poke-bowl.webp
 ### A. Pickled Vegetables
 
 1. In a bowl, combine and let sit for 30 minutes:
-	- **¾ English Cucumber, diced (1/2 inch)**
+	- **¾ English Cucumber** *diced (1/2 inch)*
 	- **¼ cup Rice Vinegar**
 	- **½ tsp Sea Salt**
 	- **½ tsp Red Pepper Flakes**
-	- **1 tsp Sesame Oil, toasted**
+	- **1 tsp Sesame Oil** *toasted*
 
 ### B. Shoyu Tamago (Soy Eggs)
 
 1. Prepare soft-boiled eggs and marinate:
-	- **2-4 Eggs, soft-boiled**
+	- **2-4 Eggs** *soft-boiled*
 	- **Soy Sauce to cover**
 	- Marinate for 1 hour
 
 ### C. Shrimp Ceviche
 
 1. Combine and let cure for 15 minutes:
-	- **1 cup small Shrimp, peeled and deveined**
+	- **1 cup small Shrimp** *peeled and deveined*
 	- **¼ cup Lime Juice and/or Lemon Juice**
-	- **1 cup Red Onion, finely chopped**
+	- **1 cup Red Onion** *finely chopped*
 
 ### D. Poke Sauce
 

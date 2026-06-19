@@ -23,7 +23,7 @@ thumbnail: /assets/images/hollandaise-sauce.webp
 	- Optional **Pinch Cayenne Pepper or Hot Sauce**
 
 2. Set bowl over a bain-marie (double boiler). Cook while whisking constantly and slowly adding:
-	- **1/8 cup Butter, melted**
+	- **1/8 cup Butter** *melted*
 
 3. Continue whisking until sauce thickens and coats the back of a spoon. Serve immediately.
 

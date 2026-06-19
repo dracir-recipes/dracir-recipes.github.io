@@ -19,7 +19,7 @@ thumbnail: /assets/images/dragon-sauce.webp
 	- **2 tbsp Maple Syrup**
 	- **2 tbsp Soy Sauce (tamari)**
 	- **2 tbsp Water**
-	- **2 cloves Garlic, crushed**
+	- **2 cloves Garlic** *crushed*
 
 2. Let stand for 5 minutes to allow flavors to meld before serving.
 
