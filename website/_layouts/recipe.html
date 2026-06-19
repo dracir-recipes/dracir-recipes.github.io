@@ -409,6 +409,15 @@
 					return;
 				}
 
+				if (!item.querySelector('.recipe-step-timer-row')) {
+					var row = document.createElement('div');
+					row.className = 'recipe-step-timer-row';
+					while (item.firstChild) {
+						row.appendChild(item.firstChild);
+					}
+					item.appendChild(row);
+				}
+				var row = item.querySelector('.recipe-step-timer-row');
 				item.classList.add("recipe-step-has-timer");
 				durations.forEach(function (duration) {
 					var timer = document.createElement("div");
@@ -429,7 +438,7 @@
 						+ '<button type="button" class="btn btn-outline-secondary btn-sm" data-wait-reset>Reset</button>'
 						+ '</div>'
 						+ '</div>';
-					item.appendChild(timer);
+					row.appendChild(timer);
 					setupTimer(timer, duration.label, duration.minutes);
 				});
 			});

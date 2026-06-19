@@ -13,25 +13,23 @@ thumbnail: /assets/images/deviled-eggs.webp
 
 ## Recipe
 
-*Classic deviled eggs with international flavor variations*
-
 ### A. Base Preparation
 
 1. Hard-boil and prepare:
-	- **6 Eggs** *hard-boiled, peeled, and halved*
+	- 6 **Eggs**, *hard-boiled, peeled, and halved*
 	- Remove yolks and place in a bowl
 
 2. Basic yolk mixture (for all variations):
-	- **6 Egg Yolks**
-	- **3 tbsp Mayonnaise** (equal parts mayo to yolks)
+	- 6 **Egg Yolks**
+	- 3 tbsp **Mayonnaise** (equal parts mayo to yolks)
 
 ### B. Flavor Variations
 
 ### Traditional Style
 
 1. Mix yolk base with:
-	- **1 tbsp Sweet Relish** (optional)
-	- **Few drops Hot Sauce** (optional)
+	- 1 tbsp **Sweet Relish** (optional)
+	- Few drops **Hot Sauce** (optional)
 	- **Salt and Black Pepper to taste**
 
 2. Fill egg whites and sprinkle with:
@@ -40,9 +38,9 @@ thumbnail: /assets/images/deviled-eggs.webp
 ### Korean Style
 
 1. Mix yolk base with:
-	- **1 tsp Korean Chili Powder (gochugaru)**
-	- **½ tsp Sesame Oil**
-	- **Few drops Fish Sauce**
+	- 1 tsp **Korean Chili Powder (Gochugaru)**
+	- ½ tsp **Sesame Oil**
+	- Few drops **Fish Sauce**
 
 2. Fill egg whites and sprinkle with:
 	- **Sesame Seeds**
@@ -50,11 +48,8 @@ thumbnail: /assets/images/deviled-eggs.webp
 ### Mexican Salsa Style
 
 1. Mix yolk base with:
-	- **2 tbsp Tomatoes** *finely diced*
-	- **1 tbsp Avocado** *mashed*
-	- **Salt and Black Pepper to taste**
+	- 2 tbsp **Tomatoes**, *finely diced*
+	- 1 tbsp **Avocado**, *mashed*
+	- **Salt and Black Pepper**
 
 2. Fill egg whites and garnish with extra diced tomatoes.
-
-## Notes
-

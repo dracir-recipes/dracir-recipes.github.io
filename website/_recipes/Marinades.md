@@ -14,25 +14,27 @@ thumbnail: /assets/images/marinades.webp
 
 ## Asiatic Marinade
 
-	- **1 lb meat**
-	- **1 tbsp soy sauce**
-	- **1 tbsp neutral oil**
-	- **1 tbsp mirin**
-	- **1 tbsp rice vinegar**
-	- **1 tsp brown sugar**
-	- **1 tsp pepper**
+1. Mix together:
+	- 1 lb **Meat**
+	- 1 tbsp **Soy Sauce**
+	- 1 tbsp **Neutral Oil**
+	- 1 tbsp **Mirin**
+	- 1 tbsp **Rice Vinegar**
+	- 1 tsp **Brown Sugar**
+	- 1 tsp **Pepper**
 
 ## Porc Tenderloin Marinade
 
-	- **4 ½ pounds pork tenderloin**
-	- **½ cup olive oil**
-	- **2 tablespoons brown sugar**
-	- **15 cloves minced garlic**
-	- **3 tablespoon lemon juice**
-	- **3 tablespoon soy sauce**
-	- **3 tablespoon white wine vinegar**
-	- **3 teaspoon ground mustard**
-	- **1 ½ teaspoon salt**
-	- **1 ½ teaspoon black pepper**
+1. Mix together:
+	- 4 ½ pounds **Pork Tenderloin**
+	- ½ cup **Olive Oil**
+	- 2 tablespoons **Brown Sugar**
+	- 15 cloves **Garlic**, *minced*
+	- 3 tablespoon **Lemon Juice**
+	- 3 tablespoon **Soy Sauce**
+	- 3 tablespoon **White Wine Vinegar**
+	- 3 teaspoon **Ground Mustard**
+	- 1 ½ teaspoon **Salt**
+	- 1 ½ teaspoon **Black Pepper**
 
 ## Notes

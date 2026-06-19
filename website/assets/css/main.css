@@ -153,10 +153,14 @@ margin-bottom: 0.45rem;
 }
 
 .recipe-content li.recipe-step-has-timer {
+display: list-item;
+}
+
+.recipe-content li.recipe-step-has-timer > .recipe-step-timer-row {
 display: flex;
 flex-wrap: wrap;
-align-items: center;
-gap: 0.45rem 0.7rem;
+align-items: flex-start;
+gap: 0.35rem 0.6rem;
 }
 
 .recipe-content li.checklist-ready {

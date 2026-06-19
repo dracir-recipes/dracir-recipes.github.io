@@ -16,14 +16,14 @@ thumbnail: /assets/images/grand-marnier-cheesecake-filling.webp
 *Rich, creamy cheesecake filling with orange liqueur*
 
 1. In a bain-marie (double boiler), gently melt and combine:
-	- **1 cup Cream Cheese** *softened*
-	- **45g White Chocolate**
+	- 1 cup **Cream Cheese**, *softened*
+	- 45g **White Chocolate**
 
 2. Remove from heat and let cool slightly.
 
 3. Using a hand mixer, gradually incorporate:
-	- **¾ cup Plain Greek Yogurt**
-	- **6 tbsp Grand Marnier**
+	- ¾ cup **Plain Greek Yogurt**
+	- 6 tbsp **Grand Marnier**
 	- **Zest of 1 Orange**
 	- **Pinch Salt**
 
@@ -34,4 +34,3 @@ thumbnail: /assets/images/grand-marnier-cheesecake-filling.webp
 ## Notes
 
 Last time I double the recipe but didnt double the grand marnier, so i still dont know if this is grand marnier enough, but the added zest makes it near!
-

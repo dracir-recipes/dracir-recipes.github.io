@@ -13,16 +13,16 @@ thumbnail: /assets/images/fermented-style-pikliz.webp
 
 ## Recipe
 
-- **2 cups shredded cabbage**
-- **1 cup (1 large) carrot** *shredded*
-- **1 red onion**
-- **1 cup (1 large) bell pepper (green, orange, red)**
-- **2 Scotch bonnet or habanero chili peppers** *hulled and seeded (use gloves when handling)*
-- **Zest and juice of a whole lime**
-- **3 cloves of garlic**
-- **1.5 tablespoons dried thyme**
-- **12-14 peppercorns**
-- **2% salt**
+- 2 cups **Cabbage**, *shredded*
+- 1 cup **Carrot**, *shredded*
+- 1 **Red Onion**, *sliced*
+- 1 cup **Bell Pepper (green, orange, red)**
+- 2 **Scotch Bonnet or Habanero Chili Peppers**, *hulled and seeded (use gloves when handling)*
+- 1 **Lime**, *Zest and Juiced*
+- 3 **Cloves of Garlic**
+- 1.5 tablespoons **Dried Thyme**
+- 12-14 **Peppercorns**
+- 2% **Salt**
 
 Massage for several minutes, until the brine comes out of the vegetables, or let stand about fifteen minutes.
 

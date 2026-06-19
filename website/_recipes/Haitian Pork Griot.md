@@ -16,16 +16,14 @@ thumbnail: /assets/images/haitian-pork-griot.webp
 
 ## Recipe
 
-- **¼cup fresh chopped Italian parsley** *more for serving*
-- **0.5 tablespoon kosher salt** *more to taste*
-- **1tablespoon coarsely ground black pepper**
-- **6sprigs fresh thyme** *plus more thyme leaves for serving  (1tbsp)*
-- **4garlic cloves** *finely chopped*
-- **¼cup cane vinegar or cider vinegar**
-- **Juice of 1 orange =====-----**
-- **Juice of 1 lemon ( 3tbsp )**
-- **Juice of ½ lime ( 1tbsp )**
-- **1tablespoon Worcestershire sauce ( oups )**
-- **3pounds pork shoulder** *not too lean, cut into 1½-inch chunks*
-
-## Notes
+- 3 pounds **Pork Shoulder**, *not too lean, cut into 1½-inch chunks*
+- ¼ cup **Italian Parsley**, *chopped ( keep some more for serving)*
+- ½ tablespoon **Kosher Salt**
+- 1 tablespoon **Ground Black Pepper**
+- 6 sprigs **Fresh Thyme**, *plus more thyme leaves for serving (1 tbsp)*
+- 4 **Garlic Cloves**, *finely chopped*
+- ¼ cup **Cider Vinegar**
+- **Juice of 1 Orange**
+- **Juice of 1 Lemon ( 3tbsp )**
+- **Juice of ½ Lime ( 1tbsp )**
+- 1 tablespoon **Worcestershire Sauce**
