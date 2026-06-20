@@ -14,63 +14,40 @@ thumbnail: /assets/images/wafu-dressing.webp
 ## Recipe
 
 1. In a bowl, with a hand mixer, mix :
-	- **1 cup of neutral oil**
-	- **1 egg**
-	- **1 tbsp mustard**
-	- **1 tbsp lemon juice**
+	- 1 cup **Neutral oil**
+	- 1 **Egg**
+	- 1 tbsp **Mustard**
+	- 1 tbsp **Lemon Juice**
 2. When the mayonnaise has thicken, add :
-	- 1/2 cup of vinegar
-
-
-## TRY 1 
-
-1/3 cup sesame oil  
-2/3 cup neutral oil  
-
-3 tbsp cup soy sauce  
-1/3 cup rice vinegar  
-
-2 tbsp tahini  
-
-Sesame seeds  
-1/3 cup grated onion  
-1/3 cup grated garlic  
-1/3 cup grated ginger
-
-Dashi powder
-
-un peu TROIP LIQUID ! 
+	- 1/2 cup **Vinegar**
 
 ## TRY 2
 
-1/3 cup sesame oil  
-2/3 cup neutral oil  
+1/3 cup **Sesame Oil**  
+2/3 cup **Neutral Oil**  
 
-1/4 cup rice vinegar  
-2 tbsp cup soy sauce  
-2 tbsp tahini  
+1/4 cup **Rice Vinegar**  
+2 tbsp **Soy Sauce**  
+2 tbsp **Tahini**  
 
-Sesame seeds  
-1/3 cup grated onion  
-1/3 cup grated garlic  
-1/3 cup grated ginger
+**Sesame Seeds**  
+1/3 cup **Grated Onion**  
+1/3 cup **Grated Garlic**  
+1/3 cup **Grated Ginger**
 
-Dashi powder
+**Dashi Powder**
 
 ## TRY 3
 
-1 Tbsp sesame oil  
-1 tbsp cuipi mayo  
-1 tbsp soy sauce  
-2 tbsp neutral oil  
-2 tbsp rice vinegar  
-1/2 tbsp tahini  
-Sesame seeds  
-1 Tbsp grated onion  
-1 Tbsp grated garlic  
-2 Tbsp grated ginger  
+1 tbsp **Sesame Oil**  
+1 tbsp **Cuipi Mayo**  
+1 tbsp **Soy Sauce**  
+2 tbsp **Neutral Oil**  
+2 tbsp **Rice Vinegar**  
+1/2 tbsp **Tahini**  
+**Sesame Seeds**  
+1 tbsp **Grated Onion**  
+1 tbsp **Grated Garlic**  
+2 tbsp **Grated Ginger**  
   
 Makes about 100 ml
-
-# Notes
-

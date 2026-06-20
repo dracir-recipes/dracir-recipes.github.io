@@ -15,75 +15,73 @@ thumbnail: /assets/images/salad-dressings.webp
 ## Base Recipe
 
 1. In a bowl, with a hand mixer, mix :
-	- **1 cup of neutral oil**
-	- **1 egg**
-	- **1 tbsp mustard**
-	- **1 tbsp lemon juice**
+	- 1 cup **Neutral oil**
+	- 1 **Egg**
+	- 1 tbsp **Mustard**
+	- 1 tbsp **Lemon Juice**
 2. When the mayonnaise has thicken, add :
-	- **1/2 cup of vinegar**
+	- ½ cup **Vinegar**
 
 ## Thousand Island Dressing
 
 1. In a bowl, with a hand mixer, mix :
-	- **1 cup mayonnaise**
-	- **1/4 cup yellow onion** *minced*
-	- **2 tablespoons ketchup**
-	- **2 tablespoons sweet pickle relish**
-	- **1 teaspoon lemon juice**
-	- **1/2 teaspoon sweet paprika**
-	- **1/4 teaspoon kosher salt**
+	- 1 cup **Mayonnaise**
+	- ¼ cup **Yellow Onion** *minced*
+	- 2 tablespoons **Ketchup**
+	- 2 tablespoons **Sweet Pickle Relish**
+	- 1 teaspoon **Lemon Juice**
+	- ½ teaspoon **Sweet Paprika**
+	- ¼ teaspoon **Kosher Salt**
 
 ## Creamy Greek Yogurt Dressing
 
 1. In a bowl, with a hand mixer, mix :
-	- **2 tablespoons fresh lemon juice** *from one lemon*
-	- **1 tablespoon white wine vinegar**
-	- **1½ teaspoons honey**
-	- **1 teaspoon minced garlic** *from 1 to 2 cloves*
-	- **½ cup plain whole milk Greek yogurt**
-	- **⅓ cup extra virgin olive oil**
-	- **½ teaspoon salt**
-	- **¼ teaspoon freshly ground black pepper**
+	- 2 tablespoons **Lemon Juice** (1 lemon)
+	- 1 tablespoon **White Wine Vinegar**
+	- 1½ teaspoons **Honey**
+	- 2 **Cloves Garlic**, *minced*
+	- ½ cup **Plain Greek Yogurt**
+	- ⅓ cup **Extra Virgin Olive Oil**
+	- ½ teaspoon **Salt**
+	- ¼ teaspoon **Freshly Ground Black Pepper**
 
 ## Italian Mayo Dressing
 
 1. In a bowl, with a hand mixer, mix :
-	- **1 egg**
-	- **1/4 cup white wine vinegar**
-	- **2 tablespoons lemon juice**
-	- **1/3 cup olive oil**
-	- **1/2 cup neutral oil**
-	- **2 cloves garlic**
-	- **1/2 tsp dried basil**
-	- **1/2 tsp dried oregano**
-	- **1/2 tsp dried thyme**
-	- **2 tbsp nutritional yeast**
-	- **salt and pepper**
+	- 1 **Egg**
+	- ¼ cup **White Wine Vinegar**
+	- 2 tablespoons **Lemon Juice**
+	- ⅓ cup **Olive Oil**
+	- ½ cup **Neutral Oil**
+	- 2 **Cloves Garlic**, *minced*
+	- ½ teaspoon **Dried Basil**
+	- ½ teaspoon **Dried Oregano**
+	- ½ teaspoon **Dried Thyme**
+	- 2 tablespoons **Nutritional Yeast**
+	- **Salt and Pepper**
 
 ## Traditional Caesar Dressing
 
 1. In a bowl, with a hand mixer, mix :
-	- **2 egg yolks**
-	- **¾ cup extra virgin olive oil**
-	- **4 anchovies** *chopped*
-	- **½ tablespoon dijon mustard**
-	- **1 tablespoon worcestershire sauce**
-	- **2 cloves garlic minced**
-	- **1 tbsp fresh lemon juice**
-	- **¾ cup freshly grated parmesan**
-	- **¼ teaspoon salt**
-	- **½ teaspoon black pepper**
+	- 2 **Egg Yolks**
+	- ¾ cup **Extra Virgin Olive Oil**
+	- 4 **Anchovies**, *chopped*
+	- ½ tablespoon **Dijon Mustard**
+	- 1 tablespoon **Worcestershire Sauce**
+	- 2 **Cloves Garlic**, *minced*
+	- 1 tablespoon **Fresh Lemon Juice**
+	- ¾ cup **Freshly Grated Parmesan**
+	- ¼ teaspoon **Salt**
+	- ½ teaspoon **Black Pepper**
 
 ## Tahini Dressing
 
 1. In a bowl, with a hand mixer, mix :
-	- **1/4 cup tahini**
-	- **1/4 cup lemon juice**
-	- **1/8 cup olive oil**
-	- **1/2 inch ginger**
-	- **1 tsp ground turmeric**
-	- **1/4 tsp black pepper**
-	- **2 garlic cloves**
-	- **1/4 tsp salt**
-
-## Notes
+	- ¼ cup **Tahini**
+	- ¼ cup **Lemon Juice**
+	- ⅛ cup **Olive Oil**
+	- ½ inch **Ginger**
+	- 1 teaspoon **Ground Turmeric**
+	- ¼ teaspoon **Black Pepper**
+	- 2 **Cloves Garlic**, *minced*
+	- ¼ teaspoon **Salt**

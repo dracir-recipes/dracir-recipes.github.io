@@ -13,20 +13,10 @@ thumbnail: /assets/images/sushi.webp
 ---
 # Sushi
 
-## Recipe
-
-*Traditional sushi rice preparation with seasoned rice vinegar*
-
-## Equipment Needed
-
-- **2-quart pot**
-- **1-quart pot** 
-- **Non-metallic bowl**
-
-### A. Prepare Sushi Rice
+## A. Prepare Sushi Rice
 
 1. Rinse rice until water runs clear:
-	- **2 cups Sushi Rice**
+	- 2 cups **Sushi Rice**
 
 2. Soak rice in water (1 inch above rice level) for 30 minutes.
 
@@ -41,9 +31,9 @@ thumbnail: /assets/images/sushi.webp
 ### B. Make Rice Seasoning
 
 1. While rice cooks, combine in small saucepan:
-	- **½ cup White Rice Vinegar**
-	- **2 tsp Salt**
-	- **¼ cup Sugar**
+	- ½ cup **White Rice Vinegar**
+	- 2 tsp **Salt**
+	- ¼ cup **Sugar**
 
 2. Bring to a boil, stirring until sugar dissolves.
 
@@ -62,4 +52,3 @@ thumbnail: /assets/images/sushi.webp
 ## Notes
 
 *This recipe makes enough sushi rice for about 14 pieces. Traditional fillings include cucumber, carrot, tamago (egg), eel, imitation crab, smoked salmon, sesame seeds.*
-

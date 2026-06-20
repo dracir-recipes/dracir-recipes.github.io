@@ -16,8 +16,6 @@ thumbnail: /assets/images/tofu-chocolate-mousse.webp
 ## Recipe
 
 1. In a blender, mix until smooth :
-	- **1.5 cup Silken Tofu**
-	- **1/3 cup Chocolate**
-	- **1/3 cup Espresso**
-
-## Notes
+	- 1.5 cup **Silken Tofu**
+	- 1/3 cup **Chocolate**
+	- 1/3 cup **Espresso**

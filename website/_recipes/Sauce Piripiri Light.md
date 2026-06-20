@@ -17,16 +17,16 @@ thumbnail: /assets/images/sauce-piripiri-light.webp
 ### A. Pressure Cook Ribs
 
 1. Grill
-	- 1 poivron
-	- 3 garlic cloves
-	- 1 large red onion
-	- olive oil
+	- 1 *Poivron*
+	- 3 *Cloves Garlic*
+	- 1 large *Red Onion*
+	- *Olive Oil*
 2. mix with
-	- 1/2 cup Cottage Cheese
-	- 1 hard boiled egg
-	- 2 tbsp lemon juice
-	- hot pepper
-	- 1 tsp dried oregano
-	- 1 tsp black pepper
+	- ½ cup *Cottage Cheese*
+	- 1 *Hard Boiled Egg*
+	- 2 tablespoons *Lemon Juice*
+	- *Hot Pepper*
+	- 1 teaspoon *Dried Oregano*
+	- 1 teaspoon *Black Pepper*
 
 ## Notes
