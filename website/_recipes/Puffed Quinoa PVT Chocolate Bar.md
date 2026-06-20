@@ -14,20 +14,20 @@ thumbnail: /assets/images/puffed-quinoa-pvt-chocolate-bar.webp
 ## Recipe
 
 0. In a bowl soak:
-	- 1/4 cup Tvp
-	- 1/4 cup Decaf Coffee
-	- 2 tbsp chia seeds
+	- ¼ cup **TVP**
+	- ¼ cup **Decaf Coffee**
+	- 2 tbsp **Chia Seeds**
 1. In a pot, melt:
-	- 1 cup Dark Chocolate
-	- 1 tbsp Coconut Oil
+	- 1 cup **Dark Chocolate**
+	- 1 tbsp **Coconut Oil**
 2. Add
-	- 2 tbsp flax seed
-	- 1 teaspoon ground cinnamon
-	- **1 1/2 cups Puffed Quinoa** *toasted*
-	- 1/4 cup Hemp Seeds
-	- 3/4 cup Peanut Butter
-	- 1/4 cup Honey
-3. Lay mix in a greased container, add chocolat on top
+	- 2 tbsp **Flax Seed**
+	- 1 teaspoon **Ground Cinnamon**
+	- **1 ½ cups Puffed Quinoa** *toasted*
+	- ¼ cup **Hemp Seeds**
+	- ¾ cup **Peanut Butter**
+	- ¼ cup **Honey**
+3. Lay mix in a greased container, add **Chocolate** on top
 4. Freeze for a few hours and cut to pieces
 
 ## Notes

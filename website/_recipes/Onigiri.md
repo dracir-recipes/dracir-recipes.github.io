@@ -25,13 +25,13 @@ thumbnail: /assets/images/onigiri.webp
 ### A. Rice
 
 1. In a rice cooker, cook:
-	- **2 cups Short Grain Rice** *uncooked*
-	- **2½ cups Water** 
+	- 2 cups **Short Grain Rice**
+	- 2½ cups **Water**
 
 ### B. Salted Salmon Filling
 
 1. Season and bake:
-	- **1 Salmon Fillet**
+	- 1 **Salmon Fillet**
 	- **Salt for both sides**
 
 2. ⏲️ Bake in a 425°F (220°C) oven for 10-20 minutes, until dry and flaky.
@@ -39,14 +39,14 @@ thumbnail: /assets/images/onigiri.webp
 ### C. Tuna Filling
 
 1. Combine:
-	- **¾ cup Canned Tuna** *drained*
-	- **2 tbsp Kewpie Mayonnaise**
-	- **½ tbsp Soy Sauce** 
+	- ¾ cup **Canned Tuna**, *drained*
+	- 2 tbsp **Kewpie Mayonnaise**
+	- ½ tbsp **Soy Sauce**
 
 ### D. Assembly Method - To Eat Right Away
 
 1. Cut nori sheets:
-	- **4 sheets Nori** *cut into thirds*
+	- 4 sheets **Nori**, *cut into thirds*
 
 2. Prepare your hands by wetting them to prevent rice from sticking.
 
@@ -54,15 +54,12 @@ thumbnail: /assets/images/onigiri.webp
 	- **Kosher Salt**
 
 4. Scoop rice and shape:
-	- **⅓ cup cooked Sushi Rice**
+	- ⅓ cup **cooked Sushi Rice**
 	- Create a small well in the center
 
 5. Add filling:
-	- **2 tsp of chosen filling**
+	- 2 tsp **of chosen filling**
 
 6. Mold the rice into a triangle, squeezing gently but firmly. Leave some filling showing on top for identification.
 
 7. Wrap with nori piece.
-
-## Notes
-

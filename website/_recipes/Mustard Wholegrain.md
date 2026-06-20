@@ -15,15 +15,15 @@ thumbnail: /assets/images/mustard-wholegrain.webp
 ## Recipe
 
 1. In a mason jar, add
-   - 1/4 cup yellow mustard seeds
-   - 1/4 cup brown mustard seeds
-   - 1/2 cup apple cider vinegar
-   - 1/4 cup vinegar
-   - 1/3 cup water
-   - 1 tsp salt
+   - ¼ cup **Yellow Mustard Seeds**
+   - ¼ cup **Brown Mustard Seeds**
+   - ½ cup **Apple Cider Vinegar**
+   - ¼ cup **Vinegar**
+   - ⅓ cup **Water**
+   - 1 tsp **Salt**
 2. Let sit for 2-3 days at room temperature, shaking the jar once a day. The mustard will thicken as it sits. If you want a thinner consistency, add more water or vinegar.
 3. Use hand blender to blend the mustard to your desired consistency.
 
 ## Notes
 
-- donne 2 tasse  or if strainned :1 1/3 dijon and 2/3 grains
+- donne 2 tasse or if strainned :1 ⅓ dijon and ⅔ grains

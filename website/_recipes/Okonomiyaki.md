@@ -15,30 +15,32 @@ thumbnail: /assets/images/okonomiyaki.webp
 ## Recipe
 
 1. In a large bowl, mix vegetables and proteins:
-	- **2 cups Cabbage** *shredded*
-	- **¼ cup Onion** *diced*
-	- **2 cloves Garlic** *minced*
-	- **1 tbsp Ginger** *grated*
-	- **1 cup mixed Vegetables (Carrot, Mushrooms)**
-	- **1 cup Bacon** *cut into pieces*
+	- 2 cups **Cabbage** *shredded*
+	- ¼ cup **Onion** *diced*
+	- 2 cloves **Garlic** *minced*
+	- 1 tbsp **Ginger** *grated*
+	- 1 cup **mixed Vegetables** (Carrot, Mushrooms)
+	- 1 cup **Bacon** *cut into pieces*
 
 2. Add binding ingredients:
-	- **2 Eggs**
-	- **1 tsp Dashi Powder**
+	- 3 **Eggs**
+	- ½ cup **Silken Tofu**, *mashed*
+	- 1 tsp **Dashi Powder**
 	- **Salt to taste**
 
 3. Gradually add until you reach a "smushy" batter texture:
-	- **½-¾ cup All-Purpose Flour**
-	- **2-4 tbsp Water**
+	- ½ cup **All-Purpose Flour**
+	- 2-4 tbsp **Water**
 
 4. Optional: Rest batter in refrigerator for 1 hour for fluffier results.
 
 5. Heat oil in a large pan and cook batter in pancake shapes over medium heat until golden and cooked through:
-	- **2 tbsp Vegetable Oil**
+	- 2 tbsp **Vegetable Oil**
 
 ## Serving
 
 Serve hot topped with:
+
 - **Kewpie Mayonnaise**
 - **Okonomiyaki Sauce**
 - **Katsuobushi (bonito flakes)**
@@ -47,3 +49,4 @@ Serve hot topped with:
 
 ## Notes
 
+- try to change flour for a none-gluten one, maybe rice flour or chickpea flour and see quantity changes

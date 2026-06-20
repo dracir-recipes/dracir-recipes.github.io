@@ -15,13 +15,13 @@ thumbnail: /assets/images/nuts-sauce.webp
 ## Recipe
 
 1. In a bowl, whisk together:
-	- **¼ cup Nut Butter (peanut, almond, or tahini)**
-	- **2 tbsp Soy Sauce**
-	- **1 tbsp Fresh Ginger** *grated*
-	- **2 cloves Garlic** *grated or minced*
+	- ¼ cup **Nut Butter** (peanut, almond, or tahini)
+	- 2 tbsp **Soy Sauce**
+	- 1 tbsp **Fresh Ginger** *grated*
+	- 2 cloves **Garlic** *grated or minced*
 
 2. Gradually add water while whisking until desired consistency:
-	- **2-4 tbsp Water**
+	- 2-4 tbsp **Water**
 
 ## Serving Suggestions
 
@@ -29,6 +29,3 @@ thumbnail: /assets/images/nuts-sauce.webp
 - Drizzle over stir-fried vegetables
 - Condiment for spring rolls
 - Salad dressing base
-
-## Notes
-

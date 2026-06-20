@@ -19,8 +19,8 @@ thumbnail: /assets/images/nut-bar.webp
 ### A. Basic Method
 
 1. In a food processor, blend until sticky paste forms:
-	- **900g Dates** *pitted*
-	- **90g Nut Butter of choice**
+	- 900g **Dates**, *pitted*
+	- 90g **Nut Butter of choice**
 	- **Flavorings (see variations below)**
 
 2. Press mixture into lined pan or roll into shapes.
@@ -33,24 +33,21 @@ thumbnail: /assets/images/nut-bar.webp
 
 ### Nutella-Style Bars
 
-- **3 tbsp Carob Powder**
-- **½ cup Hazelnuts** *ground*
+- 3 tbsp **Carob Powder**
+- ½ cup **Hazelnuts** *ground*
 
 ### Chocolate-Peanut Butter (Reese's Style)
 
-- **¼ cup Cocoa Powder**
-- **¾ cup Almond Butter**
+- ¼ cup **Cocoa Powder**
+- ¾ cup **Almond Butter**
 
 ### Citrus-Almond
 
 - **Zest and juice of 2.5 Lemons**
-- **¾ cup Almonds** *ground*
+- ¾ cup **Almonds** *ground*
 
 ## Tips
 
 - Dates should be soft and sticky for best binding
 - Soak hard dates in warm water if needed
 - Cut into bars when slightly firm but not hard
-
-## Notes
-

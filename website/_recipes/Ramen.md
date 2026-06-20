@@ -17,25 +17,25 @@ thumbnail: /assets/images/ramen.webp
 ### A. Noodles
 
 1. Cook according to package directions:
-	- **200g Rice Vermicelli (thicker than 1mm)**
+	- 200g **Rice Vermicelli** (thicker than 1mm)
 
 ### B. Cold Broth Base
 
 1. In a large bowl, whisk together:
-	- **1 large tbsp Miso Paste**
-	- **1 large tbsp Tahini**
-	- **1 cup Spicy Sauerkraut**
-	- **3-4 cups Water or Vegetable Broth**
+	- 1 tbsp **Miso Paste**
+	- 1 tbsp **Tahini**
+	- 1 cup **Spicy Sauerkraut**
+	- 3-4 cups **Water or Vegetable Broth**
 
 ### C. Vegetables
 
 1. Cook vegetables together until just tender:
-	- **2 cups mixed colorful Vegetables (Cabbage, Bean Sprouts, Carrots)** 
+	- 2 cups **Colorful Vegetables** (Cabbage, Bean Sprouts, Carrots)
 	- Cook bean sprouts minimally to retain crunch
 	- Grate carrots for quick cooking
 
 2. Optional flavor boost:
-	- **2 tbsp BBQ Sauce** (surprisingly good!) or other sauce
+	- 2 tbsp **BBQ Sauce** (surprisingly good!) or other sauce
 
 ### D. Assembly & Toppings
 
@@ -48,6 +48,3 @@ thumbnail: /assets/images/ramen.webp
 	- **Sauerkraut**
 	- **Pickled Vegetables**
 	- **Sweet Corn**
-
-# Notes
-

@@ -17,46 +17,44 @@ thumbnail: /assets/images/ninja-creami.webp
 ## Protein Ice Cream
 
 1. Mix
-   - **1/2 cup yogurt**
-   - **1/4 cup protein powder**
+   - ½ cup **Yogurt**
+   - ¼ cup **Protein Powder**
    - **Fill with 1% milk**
-   - **1 banana**
+   - 1 **Banana**
 
 ## Chocolate Ice cream
 
 1. Mix
-   - **3 tbsp cream cheese**
-   - **2 tbsp sugar**
-   - **2 tbsp cocoa powder**
-   - **1 tsp vanilla extract**
-   - **150 ml heavy cream**
-   - **200 ml whole milk**
-   - **Pinch of salt**
+   - 3 tbsp **Cream Cheese**
+   - 2 tbsp **Sugar**
+   - 2 tbsp **Cocoa Powder**
+   - 1 tsp **Vanilla Extract**
+   - 150 ml **Heavy Cream**
+   - 200 ml **Whole Milk**
+   - **Pinch of Salt**
 
 ## Condensed Milk Ice Cream Chocolate
 
 1. Whisk  
-   - **1/3 cup Dutch processed cocoa**
-   - **1/4 cup Water**
+   - ⅓ cup **Dutch Processed Cocoa**
+   - ¼ cup **Water**
 2. Wait a little then whisk
-   - **2/3 cup  sweetened condensed milk**
+   - ⅔ cup **Sweetened Condensed Milk**
 3. Then whisk in
-   - **2/3 cup whipping cream**
-   - **1/2 cup milk**
-   - **Pinch of salt**
+   - ⅔ cup **Whipping Cream**
+   - ½ cup **Milk**
+   - **Pinch of Salt**
 
 Whiskey variation: remove water and cocoa, replace by:
 
-- **2 tbsp whiskey**
-- **1/4 cup maple syrup**
+- 2 tbsp **Whiskey**
+- ¼ cup **Maple Syrup**
 
 ## Fruit Sorbet
 
 1. Mix
-   - **1 cup fruits**
-   - **2 tbsp sugar**
-   - **250ml cream**
-   - **1 tsp lemon juice**
-   - **Pinch of salt**
-
-## Notes
+   - 1 cup **Fruits**
+   - 2 tbsp **Sugar**
+   - 250 ml **Cream**
+   - 1 tsp **Lemon Juice**
+   - **Pinch of Salt**

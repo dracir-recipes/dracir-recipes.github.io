@@ -16,22 +16,22 @@ thumbnail: /assets/images/quinoa-salad.webp
 ## Recipe
 
 1. Cook in water
-	- **1 cup quinoa**
-	- **2 cups water**
+	- 1 cup **Quinoa**
+	- 2 cups **Water**
 2. Let cool
 3. In a big bowl add and mix well:
-	- **1 cup chopped tomatoes**
-	- **1 cup chopped cucumber**
-	- **1 cup chopped bell pepper**
-	- **1/2 cup diced green onion green parts only**
-	- **1 cup feta**
-	- **Olives optional**
+	- 1 cup **Tomatoes**, *chopped*
+	- 1 cup **Cucumber**, *chopped*
+	- 1 cup **Bell Pepper**, *chopped*
+	- ½ cup **Green Onion**, *diced*
+	- 1 cup **Feta**
+	- Other vegetables: **Palm Hearts, Artichoke, Olives**
 4. Dressing:
-	- **2 tablespoons extra virgin olive oil** (can use garlic infused oil, see notes)
-	- **3 tablespoons lemon juice**
-	- **1 tsp basil dried**
-	- **1 tsp oregano dried**
-	- **1/4 tsp salt**
-	- **1/4 tsp pepper**
+	- 2 tablespoons **Extra Virgin Olive Oil**
+	- 3 tablespoons **Lemon Juice**
+	- 1 tsp **Basil**, *dried*
+	- 1 tsp **Oregano**, *dried*
+	- ¼ tsp **Salt**
+	- ¼ tsp **Pepper**
 
 ## Notes
