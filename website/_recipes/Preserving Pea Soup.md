@@ -7,7 +7,7 @@ recipe-tags:
 recipe-type: Preserving
 thumbnail: 
 ---
-# Bruschetta Richard
+# Preserving Pea Soup
 
 - **Serving**: 6 x 1000 ml
 
@@ -17,12 +17,13 @@ thumbnail:
 	- 2 cups **Yellow Peas**, *dry*
 	- 6 cups **Water**
 	- 2 onions, *chopped*
-	- 1 cups **Carrots**, *chopped*
-	- 1 cups **Celery**, *chopped*
+	- 1.5 cups **Carrots**, *chopped*
+	- 1.5 cups **Celery**, *chopped*
 	- 1.5 cups **Ham**, *chopped*
 	- 1 **Garlic Head**, *finely chopped*
 	- 2 tsp **Salt**
 	- 1 tsp **Black Pepper**
+	- 1/2 tsp **Paprika**
 	- 3 bay leaves
 
 ## Notes
