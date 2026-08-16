@@ -9,7 +9,7 @@ thumbnail:
 ---
 # Preserving Pea Soup
 
-- **Serving**: 6 x 1000 ml
+- **Serving**: 3 x 1000 ml
 
 ## Recipe
 
