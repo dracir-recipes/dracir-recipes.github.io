@@ -1,0 +1,45 @@
+---
+
+tags: #🍲
+aliases: 
+type: cooking-recipe
+status: 🟨
+recipe-tags:
+  - Summer
+  - Party
+recipe-type: Preserving
+thumbnail: /assets/images/barbecue-sauce.webp
+---
+# Barbecue Sauce Texas Style
+
+## Recipe
+
+1. In a large saucepan, combine:
+	- 8 cup **Tomato puree**
+	- 2 cup (~ 5 stacks) **Celery**, *chopped*
+	- 2 cup (~ 3 medium) **Onions**, *chopped*
+	- 1½ cup (~ 3 medium), **Red peppers**, *chopped*
+2. Cook until vegetable are tender ( about 30 minutes )
+3. Puree and sieve.
+4. Cook until mixture is reduced to about one half (about 45 minutes).
+5. Add:
+	- 1 tspp. **Black pepper**
+	- 1 tbsp. **Dry mustard**
+	- 1 tbsp. **Paprika**
+	- 1 tbsp. **Canning salt**
+	- 2 **Cloves garlic**, *crushed*
+	- ½ cup **Molasses**
+	- ½ cup **Honey**
+	- ¼ cup **Worcestershire sauce**
+	- 1¼ cup **Vinegar** *(5%)*
+6. Cook slowly until mixture is the consistency of ketchup, about 1½ to two hours.
+
+Fill hot sauce into clean, hot jars, leaving ½ inch head space. Remove air bubbles and adjust head space if needed. Wipe rims of jars with a dampened clean paper towel; apply two-piece metal canning lids. Process in a boiling water-bath canner according to the recommendations in Table 1.
+20 min. for up to 1000 ft
+
+## Notes
+
+- Based on [[Barbecue Sauce from NDSU]]
+- To try replacing vinegar with apple cider vinegar
+- Don't cut celery leafs, add full and remove before blending
+- I prefer to choose when its hot or not, so no hot pepper next time
