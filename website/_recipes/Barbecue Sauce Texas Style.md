@@ -21,11 +21,11 @@ thumbnail: /assets/images/barbecue-sauce.webp
 3. Puree and sieve.
 4. Cook until mixture is reduced to about one half (about 45 minutes).
 5. Add:
-	- 1 tspp. **Black pepper**
-	- 1 tbsp. **Dry mustard**
+	- ½ tbsp. **Dry mustard**
 	- 1 tbsp. **Paprika**
 	- 1 tbsp. **Canning salt**
  	- 1 tbsp. **garlic powder**
+	- ½ tspp. **Black pepper**
 	- ½ cup **Molasses**
 	- ½ cup **Honey**
 	- ¼ cup **Worcestershire sauce**
