@@ -16,9 +16,7 @@ thumbnail: /assets/images/barbecue-sauce.webp
 
 1. In a large saucepan, combine:
 	- 8 cup **Tomato puree**
-	- 2 cup (~ 5 stacks) **Celery**, *chopped*
 	- 2 cup (~ 3 medium) **Onions**, *chopped*
-	- 1½ cup (~ 3 medium), **Red peppers**, *chopped*
 2. Cook until vegetable are tender ( about 30 minutes )
 3. Puree and sieve.
 4. Cook until mixture is reduced to about one half (about 45 minutes).
@@ -27,7 +25,7 @@ thumbnail: /assets/images/barbecue-sauce.webp
 	- 1 tbsp. **Dry mustard**
 	- 1 tbsp. **Paprika**
 	- 1 tbsp. **Canning salt**
-	- 2 **Cloves garlic**, *crushed*
+ 	- 1 tbsp. **garlic powder**
 	- ½ cup **Molasses**
 	- ½ cup **Honey**
 	- ¼ cup **Worcestershire sauce**
