@@ -53,6 +53,38 @@ thumbnail: /assets/images/pouding-chomeur-au-sirop-d-erable.webp
 6. Verser la pâte dans le moule. Verser doucement le sirop chaud sur la pâte.
 7. Cuire 40 minutes à 400F
 
+## A la cassonade
+
+### A - Gâteau
+
+1. Dans un bol, mélanger :
+	- 1 ½ tasse de **Farine de blé tout usage**
+	- 1 c. à soupe de **Poudre à pâte**
+	- ¼ c. à thé de **Sel**
+	- 1 c. à thé de **Canelle**
+2. Dans un autre bol, crémer  
+	- ½ tasse de **Beurre non salé**, *ramolli*
+	- ⅛ tasse de **sucre**
+3. Ajouter un à la fois :
+	- 2 **Oeufs**
+4. Tout incorporer avec :
+	- ¾ tasse de **Lait**
+	- 1 c. à thé d'**Extrait de vanille**
+  
+### B - Sirop à la cassonade
+
+1. Dans une casserole, chaufer pour dissoudre la cassonade :
+	- 1 ½ tasses de **Cassonade**
+	- 1 tasse d'**Eau chaude**
+	- 2 cuillères à table de **Beurre**
+	- ½ cuillère à thé de **Fécule de maïs**
+
+### C - Assemblage
+
+1. Verser la pâte à gâteau dans un moule.
+2. Verser doucement le sirop à la cassonade chaud sur la pâte.
+3. Cuire 40 minutes à 400F.
+  
 ## Notes
 
 - Beaucoup trop sucré, réduire la quantité de sirop d'érable à 1/2 tasse et ajuster pour avoir une consistance plus épaisse. ( recette 1 )

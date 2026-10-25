@@ -36,3 +36,11 @@ thumbnail: /assets/images/banana-bread.jpg
 ## Notes
 
 - 6 bananas seems to be the MAX !
+
+- Pour une recette à la citrouille :
+
+remplacer les bananes par 3 tasses
+• 2 teaspoon ground cinnamon
+• 1/2 teaspoon ground nutmeg
+• 1/2 teaspoon ground ginger
+- 1/4 cup brown sugar
