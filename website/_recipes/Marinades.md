@@ -38,3 +38,5 @@ thumbnail: /assets/images/marinades.webp
 	- 1 ½ teaspoon **Black Pepper**
 
 ## Notes
+
+- Pour les poutrines de poulet 🍗, couper contre le grains des lanières avant de les mariner.
